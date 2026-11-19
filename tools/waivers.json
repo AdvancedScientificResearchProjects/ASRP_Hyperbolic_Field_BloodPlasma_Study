@@ -1,0 +1,54 @@
+{
+ "waivers": [
+  {
+   "check": "H2_urls_missing",
+   "match": "photos_by_patient.png",
+   "reason": "PII - memory-policy: per-donor chart or per-donor counts are not reproduced on the new pages; the file stays in the repository untouched."
+  },
+  {
+   "check": "H3_numbers_missing",
+   "match": "\"04\"",
+   "reason": "PII - memory-policy: per-donor chart or per-donor counts are not reproduced on the new pages; the file stays in the repository untouched."
+  },
+  {
+   "check": "H3_numbers_missing",
+   "match": "\"06\"",
+   "reason": "PII - memory-policy: per-donor chart or per-donor counts are not reproduced on the new pages; the file stays in the repository untouched."
+  },
+  {
+   "check": "H5_images_missing",
+   "match": "photos_by_patient.png",
+   "reason": "PII - memory-policy: per-donor chart or per-donor counts are not reproduced on the new pages; the file stays in the repository untouched."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"CHIRKOVA OLESYA\"",
+   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"ЧИРКОВА ОЛЕСЯ\"",
+   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"SASU Point Rouge France\"",
+   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Independent Researcher\"",
+   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Независимый Исследователь\"",
+   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+  },
+  {
+   "check": "S1_names_missing",
+   "match": "\"Blood Plasma Specialist\"",
+   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+  }
+ ]
+}
