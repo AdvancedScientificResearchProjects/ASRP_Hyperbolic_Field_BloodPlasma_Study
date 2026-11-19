@@ -47,6 +47,16 @@ The categories add up to 101 photographs. The CV report counts the same photogra
 
 Photographs are kept per donor in `original_research/data/patient-XX/photos/` (`original/` holds the HEIC files, `jpg/` the converted copies). Open [`original_research/data/`](../original_research/data/) to browse; each donor folder also holds the protocol PDFs, `metadata.json` (EXIF) and `en/` and `ru/` logs.
 
+Browse all photographs (anonymous donor codes and counts):
+
+- [original_research/data/patient-01/photos/](../original_research/data/patient-01/photos/) — Patient 01 (13 photos)
+- [original_research/data/patient-02/photos/](../original_research/data/patient-02/photos/) — Patient 02 (25 photos)
+- [original_research/data/patient-03/photos/](../original_research/data/patient-03/photos/) — Patient 03 (16 photos)
+- [original_research/data/patient-04/photos/](../original_research/data/patient-04/photos/) — Patient 04 (4 photos)
+- [original_research/data/patient-05/photos/](../original_research/data/patient-05/photos/) — Patient 05 (10 photos)
+- [original_research/data/patient-06/photos/](../original_research/data/patient-06/photos/) — Patient 06 (3 photos)
+- [original_research/data/patient-07/photos/](../original_research/data/patient-07/photos/) — Patient 07 (30 photos)
+
 ### Data volume
 
 | Data type | Volume | Location |

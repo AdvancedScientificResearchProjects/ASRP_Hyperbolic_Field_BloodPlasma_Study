@@ -3,32 +3,37 @@
   {
    "check": "S1_names_missing",
    "match": "\"CHIRKOVA OLESYA\"",
-   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+   "reason": "PII: private person not named (privacy); the role is kept as 'external plasma specialist'."
   },
   {
    "check": "S1_names_missing",
    "match": "\"ЧИРКОВА ОЛЕСЯ\"",
-   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+   "reason": "PII: private person not named (privacy); the role is kept as 'external plasma specialist'."
   },
   {
    "check": "S1_names_missing",
    "match": "\"SASU Point Rouge France\"",
-   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+   "reason": "PII: private person not named (privacy); the role is kept as 'external plasma specialist'."
   },
   {
    "check": "S1_names_missing",
    "match": "\"Independent Researcher\"",
-   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+   "reason": "PII: private person not named (privacy); the role is kept as 'external plasma specialist'."
   },
   {
    "check": "S1_names_missing",
    "match": "\"Независимый Исследователь\"",
-   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+   "reason": "PII: private person not named (privacy); the role is kept as 'external plasma specialist'."
   },
   {
    "check": "S1_names_missing",
    "match": "\"Blood Plasma Specialist\"",
-   "reason": "PII - memory-policy: an external private person without a memory entity page is not named; the role is kept as 'external plasma specialist'."
+   "reason": "PII: private person not named (privacy); the role is kept as 'external plasma specialist'."
+  },
+  {
+   "check": "H4_identifiers_missing",
+   "match": "ivansavelev@asrp.science",
+   "reason": "named personal mailbox - not reproduced (privacy)"
   }
  ]
 }

@@ -175,7 +175,7 @@ def timelapse(lang, v6=False):
     bw, y, h = 170, 170, 96
     bx = [24, 24 + 205, 24 + 410, 24 + 615]
     b1 = cv.box(bx[0], y, bw, "Plasma samples" if en else "Образцы плазмы", [], stroke=GOLD, h=h, center=True)
-    b2 = cv.box(bx[1], y, bw, "Time-lapse camera" if en else ("Камера" if v6 else "Камера 4K"), [], stroke=TEAL, h=h, center=True)
+    b2 = cv.box(bx[1], y, bw, ("Time-lapse camera" if v6 else "4K camera") if en else ("Камера" if v6 else "Камера 4K"), [], stroke=TEAL, h=h, center=True)
     b3 = cv.box(bx[2], y, bw, "Image capture" if en else ("Захват" if v6 else "Съёмка кадров"), [] if v6 else ["1 frame / 5 min" if en else "1 кадр / 5 мин"], stroke=BLUE, h=h, center=True)
     b4 = cv.box(bx[3], y, bw, "Preprocessing" if en else "Предобработка", [], stroke=GREEN, h=h, center=True)
     for a, b in ((b1, b2), (b2, b3), (b3, b4)):

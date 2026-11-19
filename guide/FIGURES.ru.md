@@ -72,7 +72,7 @@
 
 ## Папка-зеркало, файл за файлом
 
-32 PNG в `ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid` сверены по содержанию с корневыми схемами. 5 это побайтные копии, 5 показывают ту же схему, что корневая (другой рендер или обрезка), 8 это отдельные схемы, они перерисованы выше, 7 это круговые диаграммы фотографий по донорам (диаграммы данных, только перечислены) и 7 это хронологии сессий по донорам с поминутными временами, они не воспроизводятся (правило «только агрегаты», см. [Этику](ETHICS.ru.md)).
+32 PNG в `ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid` сверены по содержанию с корневыми схемами. 5 это побайтные копии, 5 показывают ту же схему, что корневая (другой рендер или обрезка), 8 это отдельные схемы, они перерисованы выше, 7 это круговые диаграммы фотографий по донорам (диаграммы данных, только перечислены) и 7 это хронологии сессий по донорам с поминутными временами, они здесь не воспроизводятся (правило «только агрегаты», см. [Этику](ETHICS.ru.md)).
 
 | Файл зеркала | Состояние | Где показан |
 |---|---|---|
@@ -101,13 +101,13 @@
 | [`advp05_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp05_1.png) | Круговая диаграмма долей фото по донору (диаграмма данных, анонимный код) | только перечислен |
 | [`advp06_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp06_1.png) | Круговая диаграмма долей фото по донору (диаграмма данных, анонимный код) | только перечислен |
 | [`advp07_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp07_1.png) | Круговая диаграмма долей фото по донору (диаграмма данных, анонимный код) | только перечислен |
-| [`advp01_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp01_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
-| [`advp02_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp02_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
-| [`advp03_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp03_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
-| [`advp04_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp04_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
-| [`advp05_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp05_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
-| [`advp06_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp06_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
-| [`advp07_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp07_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp01_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp01_2.png) | Хронология сессии донора с поминутными временами | здесь не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp02_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp02_2.png) | Хронология сессии донора с поминутными временами | здесь не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp03_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp03_2.png) | Хронология сессии донора с поминутными временами | здесь не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp04_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp04_2.png) | Хронология сессии донора с поминутными временами | здесь не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp05_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp05_2.png) | Хронология сессии донора с поминутными временами | здесь не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp06_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp06_2.png) | Хронология сессии донора с поминутными временами | здесь не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp07_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp07_2.png) | Хронология сессии донора с поминутными временами | здесь не воспроизводится: времена по донору (правило «только агрегаты») |
 
 ## Папки доноров
 

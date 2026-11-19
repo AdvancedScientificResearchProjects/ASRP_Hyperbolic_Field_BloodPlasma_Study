@@ -24,7 +24,7 @@
 
 | Name | Organization | Role | Email |
 |---|---|---|---|
-| SAVELYEV IVAN | ASRP.science | Science Director / Editor-in-Chief | [ivansavelev@asrp.science](mailto:ivansavelev@asrp.science) |
+| SAVELYEV IVAN | ASRP.science | Science Director / Editor-in-Chief | not reproduced (privacy) |
 
 A second collaborator, an independent blood plasma specialist of an external laboratory, is credited in the previous README for blood collection and centrifugation. Name and personal contact are deliberately not repeated here (see [Ethics and contact](ETHICS.md)); the person is reached via ASRP.
 

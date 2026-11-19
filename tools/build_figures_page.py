@@ -130,8 +130,8 @@ def build(lang):
     a("")
     a("## " + ("Mirror folder, file by file" if en else "Папка-зеркало, файл за файлом"))
     a("")
-    a(("The 32 PNG in `%s` were compared by content with the root diagrams. 5 are byte-identical copies, 5 show the same diagram as a root figure (different render or crop), 8 are distinct schemas and are redrawn above, 7 are per-donor photo pies (data charts, listed only) and 7 are per-donor session timelines with minute-level times, which are withheld (aggregates-only rule, see [Ethics](ETHICS.md))." % MR[:-1])
-      if en else ("32 PNG в `%s` сверены по содержанию с корневыми схемами. 5 это побайтные копии, 5 показывают ту же схему, что корневая (другой рендер или обрезка), 8 это отдельные схемы, они перерисованы выше, 7 это круговые диаграммы фотографий по донорам (диаграммы данных, только перечислены) и 7 это хронологии сессий по донорам с поминутными временами, они не воспроизводятся (правило «только агрегаты», см. [Этику](ETHICS.ru.md))." % MR[:-1]))
+    a(("The 32 PNG in `%s` were compared by content with the root diagrams. 5 are byte-identical copies, 5 show the same diagram as a root figure (different render or crop), 8 are distinct schemas and are redrawn above, 7 are per-donor photo pies (data charts, listed only) and 7 are per-donor session timelines with minute-level times, which are not reproduced here (aggregates-only rule, see [Ethics](ETHICS.md))." % MR[:-1])
+      if en else ("32 PNG в `%s` сверены по содержанию с корневыми схемами. 5 это побайтные копии, 5 показывают ту же схему, что корневая (другой рендер или обрезка), 8 это отдельные схемы, они перерисованы выше, 7 это круговые диаграммы фотографий по донорам (диаграммы данных, только перечислены) и 7 это хронологии сессий по донорам с поминутными временами, они здесь не воспроизводятся (правило «только агрегаты», см. [Этику](ETHICS.ru.md))." % MR[:-1]))
     a("")
     a("| Mirror file | Status | Where it is shown |" if en else "| Файл зеркала | Состояние | Где показан |")
     a("|---|---|---|")
@@ -153,7 +153,7 @@ def build(lang):
             w = "listed only" if en else "только перечислен"
         else:
             t = "Per-donor session timeline with minute-level times" if en else "Хронология сессии донора с поминутными временами"
-            w = "withheld: donor-level times (aggregates-only rule)" if en else "не воспроизводится: времена по донору (правило «только агрегаты»)"
+            w = "not reproduced here: donor-level times (aggregates-only rule)" if en else "здесь не воспроизводится: времена по донору (правило «только агрегаты»)"
         a("| %s | %s | %s |" % (link, t, w))
     a("")
     a("## " + ("Per-donor folders" if en else "Папки доноров"))

@@ -47,6 +47,16 @@
 
 Фотографии лежат по донорам в `original_research/data/patient-XX/photos/` (в `original/` файлы HEIC, в `jpg/` конвертированные копии). Откройте [`original_research/data/`](../original_research/data/); в папке каждого донора также PDF-протоколы, `metadata.json` (EXIF) и журналы `en/` и `ru/`.
 
+Просмотр всех фотографий (анонимные коды доноров и числа):
+
+- [original_research/data/patient-01/photos/](../original_research/data/patient-01/photos/) — Пациент 01 (13 фото)
+- [original_research/data/patient-02/photos/](../original_research/data/patient-02/photos/) — Пациент 02 (25 фото)
+- [original_research/data/patient-03/photos/](../original_research/data/patient-03/photos/) — Пациент 03 (16 фото)
+- [original_research/data/patient-04/photos/](../original_research/data/patient-04/photos/) — Пациент 04 (4 фото)
+- [original_research/data/patient-05/photos/](../original_research/data/patient-05/photos/) — Пациент 05 (10 фото)
+- [original_research/data/patient-06/photos/](../original_research/data/patient-06/photos/) — Пациент 06 (3 фото)
+- [original_research/data/patient-07/photos/](../original_research/data/patient-07/photos/) — Пациент 07 (30 фото)
+
 ### Объём данных
 
 | Тип данных | Объём | Расположение |

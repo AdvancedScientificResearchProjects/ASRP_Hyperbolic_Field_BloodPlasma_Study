@@ -45,7 +45,7 @@ A patent application is an IP claim, not validation of the study. Results here a
 | Website | [asrp.tech](https://asrp.tech) |
 | Email | info@asrp.tech |
 
-The address row was restored by a commit recorded in the repository history; it is a street address with an apartment number, so check whether it should stay, since the repository is public.
+The address row was restored by a commit recorded in the repository history; it is a street address with an apartment number. Open: whether this row should remain public (owner decision).
 
 ### Team contacts
 
@@ -55,7 +55,7 @@ The address row was restored by a commit recorded in the repository history; it 
 | Denis Banchenko | [info@asrp.tech](mailto:info@asrp.tech) | CEO / Program Director |
 | Mykhailo Kapustin | [mykhailokapustin@asrp.tech](mailto:mykhailokapustin@asrp.tech) | CTO / IT & AI |
 | Kyryl Zmiienko | [kyrylzmiienko@asrp.tech](mailto:kyrylzmiienko@asrp.tech) | Chief AI Engineer |
-| Ivan Savelyev | [ivansavelev@asrp.science](mailto:ivansavelev@asrp.science) | Science Director / ASRP.science |
+| Ivan Savelyev | not reproduced (privacy) | Science Director / ASRP.science |
 | Alexandr Ovsyannikov | [alexandrovsyannikov@asrp.tech](mailto:alexandrovsyannikov@asrp.tech) | Head Hardware Engineer |
 
 All addresses above are company-domain addresses. The external collaborator is reached via ASRP.

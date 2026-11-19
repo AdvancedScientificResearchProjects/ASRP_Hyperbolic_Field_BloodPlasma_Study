@@ -10,8 +10,7 @@
 <rect x='24' y='170' width='170' height='96' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
 <text x='109.0' y='226.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Plasma samples</text>
 <rect x='229' y='170' width='170' height='96' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
-<text x='314.0' y='215.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Time-lapse</text>
-<text x='314.0' y='237.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>camera</text>
+<text x='314.0' y='226.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>4K camera</text>
 <rect x='434' y='170' width='170' height='96' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
 <text x='519.0' y='216.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Image capture</text>
 <text x='519.0' y='236.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>1 frame / 5 min</text>

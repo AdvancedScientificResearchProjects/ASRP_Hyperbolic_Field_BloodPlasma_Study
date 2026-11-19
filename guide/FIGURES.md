@@ -72,7 +72,7 @@ Each report page of the repository embeds its own charts; they are listed here w
 
 ## Mirror folder, file by file
 
-The 32 PNG in `ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid` were compared by content with the root diagrams. 5 are byte-identical copies, 5 show the same diagram as a root figure (different render or crop), 8 are distinct schemas and are redrawn above, 7 are per-donor photo pies (data charts, listed only) and 7 are per-donor session timelines with minute-level times, which are withheld (aggregates-only rule, see [Ethics](ETHICS.md)).
+The 32 PNG in `ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid` were compared by content with the root diagrams. 5 are byte-identical copies, 5 show the same diagram as a root figure (different render or crop), 8 are distinct schemas and are redrawn above, 7 are per-donor photo pies (data charts, listed only) and 7 are per-donor session timelines with minute-level times, which are not reproduced here (aggregates-only rule, see [Ethics](ETHICS.md)).
 
 | Mirror file | Status | Where it is shown |
 |---|---|---|
@@ -101,13 +101,13 @@ The 32 PNG in `ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasm
 | [`advp05_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp05_1.png) | Per-donor photo-share pie (data chart, anonymous code) | listed only |
 | [`advp06_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp06_1.png) | Per-donor photo-share pie (data chart, anonymous code) | listed only |
 | [`advp07_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp07_1.png) | Per-donor photo-share pie (data chart, anonymous code) | listed only |
-| [`advp01_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp01_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
-| [`advp02_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp02_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
-| [`advp03_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp03_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
-| [`advp04_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp04_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
-| [`advp05_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp05_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
-| [`advp06_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp06_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
-| [`advp07_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp07_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
+| [`advp01_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp01_2.png) | Per-donor session timeline with minute-level times | not reproduced here: donor-level times (aggregates-only rule) |
+| [`advp02_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp02_2.png) | Per-donor session timeline with minute-level times | not reproduced here: donor-level times (aggregates-only rule) |
+| [`advp03_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp03_2.png) | Per-donor session timeline with minute-level times | not reproduced here: donor-level times (aggregates-only rule) |
+| [`advp04_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp04_2.png) | Per-donor session timeline with minute-level times | not reproduced here: donor-level times (aggregates-only rule) |
+| [`advp05_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp05_2.png) | Per-donor session timeline with minute-level times | not reproduced here: donor-level times (aggregates-only rule) |
+| [`advp06_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp06_2.png) | Per-donor session timeline with minute-level times | not reproduced here: donor-level times (aggregates-only rule) |
+| [`advp07_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp07_2.png) | Per-donor session timeline with minute-level times | not reproduced here: donor-level times (aggregates-only rule) |
 
 ## Per-donor folders
 
