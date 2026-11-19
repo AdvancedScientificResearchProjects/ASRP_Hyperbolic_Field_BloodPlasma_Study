@@ -72,16 +72,22 @@
 ### Конвейер анализа
 
 <div align="center">
-<a href="../original_research/charts/mermaid/root_5.png"><img src="../original_research/charts/mermaid/root_5.png" width="100%" alt="Схема конвейера анализа из прежнего README (Mermaid, готовый PNG)"></a>
+<a href="assets/diagrams/redraw-pipeline.ru.svg"><img src="assets/diagrams/redraw-pipeline.ru.svg" width="100%" alt="Конвейер анализа: сырые изображения, предобработка, этапы CV и LLM, сравнение, статистика, итоговые отчёты"></a>
+
+Исходная схема: <a href="../original_research/charts/mermaid/root_5.png"><code>original_research/charts/mermaid/root_5.png</code></a>
 </div>
 
 ### Схемы протокола и покадровой съёмки
 
-Прежний README иллюстрировал протокол и систему съёмки двумя схемами Mermaid; они лежат в репозитории и показаны здесь без изменений.
+Прежний README иллюстрировал протокол и систему съёмки двумя схемами Mermaid. Здесь они перерисованы в общем стиле с теми же блоками и подписями; исходные PNG остаются в репозитории.
 
 <div align="center">
-<a href="../original_research/charts/mermaid/root_6.png"><img src="../original_research/charts/mermaid/root_6.png" width="100%" alt="Схема протокола эксперимента из прежнего README (Mermaid, готовый PNG)"></a>
-<a href="../original_research/charts/mermaid/root_4.png"><img src="../original_research/charts/mermaid/root_4.png" width="100%" alt="Схема системы покадровой съёмки из прежнего README (Mermaid, готовый PNG); описывает планируемую систему, набор данных остаётся отдельными снимками"></a>
+<a href="assets/diagrams/redraw-protocol.ru.svg"><img src="assets/diagrams/redraw-protocol.ru.svg" width="100%" alt="Протокол эксперимента: забор крови, центрифугирование, отбор плазмы, облучение, съёмка, анализ, отчёты"></a>
+
+Исходная схема: <a href="../original_research/charts/mermaid/root_6.png"><code>original_research/charts/mermaid/root_6.png</code></a>
+<a href="assets/diagrams/redraw-timelapse.ru.svg"><img src="assets/diagrams/redraw-timelapse.ru.svg" width="100%" alt="Планируемая система покадровой съёмки: образцы плазмы, камера, кадр раз в пять минут, предобработка, анализ LLM и CV, сравнение"></a>
+
+Исходная схема: <a href="../original_research/charts/mermaid/root_4.png"><code>original_research/charts/mermaid/root_4.png</code></a>
 </div>
 
 ### Ссылки

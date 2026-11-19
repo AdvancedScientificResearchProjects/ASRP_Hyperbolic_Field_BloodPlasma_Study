@@ -27,10 +27,16 @@
 ### Валидация гипотезы
 
 <div align="center">
-<a href="../original_research/charts/mermaid/root_3.png"><img src="../original_research/charts/mermaid/root_3.png" width="100%" alt="Схема валидации гипотезы из прежнего README (Mermaid, готовый PNG)"></a>
+<a href="assets/diagrams/redraw-dates.ru.svg"><img src="assets/diagrams/redraw-dates.ru.svg" width="100%" alt="Семь дат сбора по донорам, с 2026-01-24 по 2026-02-07, и четыре датированных отчёта, с 2026-02-25 по 2026-03-14"></a>
+
+Исходная схема: <a href="../original_research/charts/mermaid/root_3.png"><code>original_research/charts/mermaid/root_3.png</code></a>
 </div>
 
 ### Сравнительные результаты
+
+<a href="../original_research/charts/photos_by_patient.png"><img src="../original_research/charts/photos_by_patient.png" width="60%" alt="Круговая диаграмма 101 фотографии по анонимным кодам доноров, Пациент 01 - Пациент 07: 13, 25, 16, 4, 10, 3 и 30 процентов"></a>
+
+Фотографии по кодам доноров (101 фотография; только анонимные коды и доли, без имён). Показано как в прежнем README: доноры не независимые единицы, а доли описывают объём выборки, а не результат.
 
 <div align="center">
 <a href="../original_research/charts/comparative_results.png"><img src="../original_research/charts/comparative_results.png" width="100%" alt="График сравнительных результатов из прежнего README: контроль, канал 19 и канал 21"></a>

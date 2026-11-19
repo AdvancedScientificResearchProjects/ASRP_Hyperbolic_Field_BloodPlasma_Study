@@ -27,10 +27,16 @@ This section keeps the results tables of the previous README. They are **what th
 ### Hypothesis validation
 
 <div align="center">
-<a href="../original_research/charts/mermaid/root_3.png"><img src="../original_research/charts/mermaid/root_3.png" width="100%" alt="Hypothesis validation diagram of the previous README (Mermaid, rendered PNG)"></a>
+<a href="assets/diagrams/redraw-dates.en.svg"><img src="assets/diagrams/redraw-dates.en.svg" width="100%" alt="Seven donor collection dates, 2026-01-24 to 2026-02-07, and four dated reports, 2026-02-25 to 2026-03-14"></a>
+
+Original figure: <a href="../original_research/charts/mermaid/root_3.png"><code>original_research/charts/mermaid/root_3.png</code></a>
 </div>
 
 ### Comparative results
+
+<a href="../original_research/charts/photos_by_patient.png"><img src="../original_research/charts/photos_by_patient.png" width="60%" alt="Pie chart of 101 photographs by anonymous donor code, Patient 01 to Patient 07: 13, 25, 16, 4, 10, 3 and 30 percent"></a>
+
+Photographs per donor code (101 photographs; anonymous codes and shares only, no names). Shown as in the previous README: the donors are not independent units, and the shares are a sample-size picture, not a result.
 
 <div align="center">
 <a href="../original_research/charts/comparative_results.png"><img src="../original_research/charts/comparative_results.png" width="100%" alt="Comparative results chart of the previous README: control, channel 19 and channel 21"></a>

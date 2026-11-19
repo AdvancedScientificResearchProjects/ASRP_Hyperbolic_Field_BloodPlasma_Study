@@ -20,7 +20,7 @@ The hypothesis of the protocol issue is that hyperbolic-field exposure affects p
 |---|---|
 | `Hyperbolic_Field_BloodPlasma_Study` | Active Research (self-declared; content last updated 26 March 2026) |
 
-**Organization:** Advanced Scientific Research Projects (ASRP), part of the ASRP ecosystem. The repository is private.
+**Organization:** Advanced Scientific Research Projects (ASRP), part of the ASRP ecosystem. The repository is public.
 
 ## Design and protocol
 
@@ -38,7 +38,9 @@ The protocol summary (`original_research/reports/experiment_protocol_en.md`) sta
 
 **The protocol documents disagree** on several points (exposure time, tube type, centrifugation settings, anticoagulant); the differences are listed on [Open questions](OPEN.md) and none is resolved here. The preregistered design (OSF) is a mixed between- and within-donor design with 5-10 donors and 30-60 aliquots, primary outcomes clot-formation time and clot degradation rate, ANOVA with two-sided p below .05 and Tukey-Kramer comparisons. The clot-time outcomes were never measured; the photographs stand in for them.
 
-![Research overview: diagram of the previous README](../original_research/charts/mermaid/root_1.png)
+<a href="assets/diagrams/redraw-overview.en.svg"><img src="assets/diagrams/redraw-overview.en.svg" width="100%" alt="Research overview: donors, plasma separation, exposure to channel 19, channel 21 and control, photography, AI/ML and statistics, reports"></a>
+
+Original figure: <a href="../original_research/charts/mermaid/root_1.png"><code>original_research/charts/mermaid/root_1.png</code></a>
 
 ## Sample identification
 

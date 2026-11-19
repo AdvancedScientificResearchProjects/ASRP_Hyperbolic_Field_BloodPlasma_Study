@@ -72,16 +72,22 @@ Report 6 has no report file: the repository holds no biochemical data (see [Evid
 ### Analysis pipeline
 
 <div align="center">
-<a href="../original_research/charts/mermaid/root_5.png"><img src="../original_research/charts/mermaid/root_5.png" width="100%" alt="Analysis pipeline diagram of the previous README (Mermaid, rendered PNG)"></a>
+<a href="assets/diagrams/redraw-pipeline.en.svg"><img src="assets/diagrams/redraw-pipeline.en.svg" width="100%" alt="Analysis pipeline: raw images, preprocessing, CV and LLM stages, comparison, statistics, final reports"></a>
+
+Original figure: <a href="../original_research/charts/mermaid/root_5.png"><code>original_research/charts/mermaid/root_5.png</code></a>
 </div>
 
 ### Experimental protocol and time-lapse diagrams
 
-The previous README illustrated the protocol and the imaging system with two Mermaid diagrams, kept in the repository and shown here unchanged.
+The previous README illustrated the protocol and the imaging system with two Mermaid diagrams. They are redrawn here in the house style with the same boxes and labels; the original PNGs stay in the repository.
 
 <div align="center">
-<a href="../original_research/charts/mermaid/root_6.png"><img src="../original_research/charts/mermaid/root_6.png" width="100%" alt="Experimental protocol diagram of the previous README (Mermaid, rendered PNG)"></a>
-<a href="../original_research/charts/mermaid/root_4.png"><img src="../original_research/charts/mermaid/root_4.png" width="100%" alt="Time-lapse photography system diagram of the previous README (Mermaid, rendered PNG); describes a planned system, the dataset is still photographs"></a>
+<a href="assets/diagrams/redraw-protocol.en.svg"><img src="assets/diagrams/redraw-protocol.en.svg" width="100%" alt="Experimental protocol: blood collection, centrifugation, plasma separation, irradiation, photography, analysis, reports"></a>
+
+Original figure: <a href="../original_research/charts/mermaid/root_6.png"><code>original_research/charts/mermaid/root_6.png</code></a>
+<a href="assets/diagrams/redraw-timelapse.en.svg"><img src="assets/diagrams/redraw-timelapse.en.svg" width="100%" alt="Planned time-lapse system: plasma samples, camera, one frame per five minutes, preprocessing, LLM and CV analysis, comparison"></a>
+
+Original figure: <a href="../original_research/charts/mermaid/root_4.png"><code>original_research/charts/mermaid/root_4.png</code></a>
 </div>
 
 ### References

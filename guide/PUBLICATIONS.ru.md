@@ -13,7 +13,9 @@
 Исследование названо первым биологическим испытанием излучателей гиперболического поля, описанных в патентной **заявке**: KZ 2025/1095.1, «Фрактальная биомедицинская система» (FBHFS). Заявка — это притязание в области интеллектуальной собственности. Она не является выданным патентом и не подтверждает ни метод, ни результаты этого исследования. Прежний README писал, что исследование «использует технологию, защищённую патентом»; репозиторий патента и таблица программы в том же README указывают статус «Подан». Заявители — физические лица (README называет трёх соавторов технологии, они же исполнители задачи о патентной заявке); компания нигде в этом репозитории не названа правообладателем.
 
 <div align="center">
-<a href="../original_research/charts/mermaid/root_2.png"><img src="../original_research/charts/mermaid/root_2.png" width="100%" alt="Схема связи с патентом из прежнего README (Mermaid, готовый PNG)"></a>
+<a href="assets/diagrams/redraw-patent.ru.svg"><img src="assets/diagrams/redraw-patent.ru.svg" width="100%" alt="Патентная заявка KZ 2025/1095.1 (не выданный патент) и три исследования, использующие излучатели"></a>
+
+Исходная схема: <a href="../original_research/charts/mermaid/root_2.png"><code>original_research/charts/mermaid/root_2.png</code></a>
 </div>
 
 - **Репозиторий патента:** [Kazpatent_Fractal_Biomedical_System_Patent](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent)

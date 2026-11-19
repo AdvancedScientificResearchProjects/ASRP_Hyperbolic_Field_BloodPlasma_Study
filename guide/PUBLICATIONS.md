@@ -13,7 +13,9 @@
 The study is described as the first biological test of hyperbolic-field emitters covered by a patent **application**: KZ 2025/1095.1, "Fractal Biomedical System" (FBHFS). An application is an IP claim. It is not a granted patent, and it is not validation of the method or of this study's results. The previous README said that the research "uses technology protected by patent"; the patent repository and the programme table in the same README give the status as "Filed". Applicants are individuals (the README names three technology co-authors, who are also the assignees of the patent-application issue); the company is not named as holder anywhere in this repository.
 
 <div align="center">
-<a href="../original_research/charts/mermaid/root_2.png"><img src="../original_research/charts/mermaid/root_2.png" width="100%" alt="Patent connection diagram of the previous README (Mermaid, rendered PNG)"></a>
+<a href="assets/diagrams/redraw-patent.en.svg"><img src="assets/diagrams/redraw-patent.en.svg" width="100%" alt="Patent application KZ 2025/1095.1 (not a granted patent) and the three studies that use the emitters"></a>
+
+Original figure: <a href="../original_research/charts/mermaid/root_2.png"><code>original_research/charts/mermaid/root_2.png</code></a>
 </div>
 
 - **Patent repository:** [Kazpatent_Fractal_Biomedical_System_Patent](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent)
