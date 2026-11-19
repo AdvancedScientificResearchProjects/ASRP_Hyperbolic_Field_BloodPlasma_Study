@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1060" width="1200" height="1060" role="img" aria-labelledby="t d">
+<title id="t">Experimental protocol</title>
+<desc id="d">Flow chart. Blood collection, 4 tubes per donor; centrifugation, 2000 RPM for 5 minutes; plasma separation, redistribute to samples; irradiation, about 1 hour 12 minutes, which branches into photography (before, during, after), channel 19 acceleration, channel 21 deceleration and control with no exposure. Photography continues to AI/ML analysis (multi-provider), statistics (ANOVA, t-tests) and reports (scientific papers). The protocol documents of the repository disagree on exposure time, tube type and centrifugation settings.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='1060' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Experimental protocol</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Previous README, diagram 6</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>REDRAWN FIGURE</text>
+<rect x='450' y='100' width='300' height='76' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='600.0' y='136.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Blood collection</text>
+<text x='600.0' y='156.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>4 tubes per donor</text>
+<rect x='450' y='198' width='300' height='76' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='600.0' y='234.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Centrifugation</text>
+<text x='600.0' y='254.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>2000 RPM, 5 min</text>
+<defs><marker id='m8ea0d6' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#8ea0d6'/></marker></defs>
+<path d='M600.0,176.0 L600.0,195.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='450' y='296' width='300' height='76' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='600.0' y='332.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Plasma separation</text>
+<text x='600.0' y='352.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Redistribute to samples</text>
+<path d='M600.0,274.0 L600.0,293.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='450' y='394' width='300' height='76' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='600.0' y='430.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Irradiation</text>
+<text x='600.0' y='450.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>~1h 12min</text>
+<path d='M600.0,372.0 L600.0,391.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='24' y='496' width='276' height='76' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='162.0' y='532.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Photography</text>
+<text x='162.0' y='552.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Before, during, after</text>
+<rect x='312' y='496' width='276' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='450.0' y='533.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Channel 19</text>
+<text x='450.0' y='553.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Acceleration</text>
+<text x='450.0' y='574.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ CLAIMED ONLY</text>
+<rect x='600' y='496' width='276' height='100' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='738.0' y='533.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Channel 21</text>
+<text x='738.0' y='553.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Deceleration</text>
+<text x='738.0' y='574.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ CLAIMED ONLY</text>
+<rect x='888' y='496' width='276' height='76' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='1026.0' y='532.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Control</text>
+<text x='1026.0' y='552.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>No exposure</text>
+<defs><marker id='mffa657' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<path d='M600.0,470.0 L162.0,493.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<path d='M600.0,470.0 L450.0,493.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<path d='M600.0,470.0 L738.0,493.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<path d='M600.0,470.0 L1026.0,493.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<rect x='24' y='596' width='276' height='68' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='162.0' y='628.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>AI/ML analysis</text>
+<text x='162.0' y='648.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Multi-provider</text>
+<path d='M162.0,572.0 L162.0,593.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='24' y='686' width='276' height='68' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='162.0' y='718.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Statistics</text>
+<text x='162.0' y='738.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>ANOVA, t-tests</text>
+<path d='M162.0,664.0 L162.0,683.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='24' y='776' width='276' height='68' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='162.0' y='808.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Reports</text>
+<text x='162.0' y='828.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Scientific papers</text>
+<path d='M162.0,754.0 L162.0,773.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<text x='24' y='1004' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>The protocol documents disagree on exposure time, tube type and</text>
+<text x='24' y='1024' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>centrifugation settings (guide/OPEN.md); the diagram keeps the old</text>
+<text x='24' y='1044' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>README's values.</text>
+</svg>
