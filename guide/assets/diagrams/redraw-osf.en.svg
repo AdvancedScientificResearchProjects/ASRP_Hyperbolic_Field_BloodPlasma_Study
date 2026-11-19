@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-labelledby="t d">
+<title id="t">OSF preregistration structure</title>
+<desc id="d">Tree. OSF preregistration has four branches. Primary hypothesis H1: hyperbolic field exposure produces measurable changes. Sampling plan: 5-10 donors, 30-60 plasma samples. Analysis plan: ANOVA with post-hoc analysis, p below .05 significance. Variables: clot formation time and clot degradation rate, both never measured in the repository.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='560' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>OSF preregistration structure</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Previous README, OSF diagram</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>REDRAWN FIGURE</text>
+<rect x='425' y='96' width='350' height='52' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='600.0' y='130.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>OSF preregistration</text>
+<rect x='24' y='200' width='260' height='52' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='154.0' y='234.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Primary hypothesis</text>
+<defs><marker id='mffa657' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<path d='M600.0,148.0 L600.0,174.0 L154.0,174.0 L154.0,197.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<rect x='52' y='290' width='232' height='140' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='168.0' y='348.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>H1</text>
+<text x='168.0' y='368.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Hyperbolic field exposure</text>
+<text x='168.0' y='388.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>produces measurable changes</text>
+<path d='M38.0,316.0 L49.0,316.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<line x1='38' y1='252' x2='38' y2='414' stroke='#ffa657' stroke-width='2'/>
+<rect x='320' y='200' width='260' height='52' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='450.0' y='234.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Sampling plan</text>
+<defs><marker id='m6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M600.0,148.0 L600.0,174.0 L450.0,174.0 L450.0,197.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#m6f9bff)'></path>
+<rect x='348' y='290' width='232' height='72' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='464.0' y='334.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>5-10 donors</text>
+<path d='M334.0,316.0 L345.0,316.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#m6f9bff)'></path>
+<rect x='348' y='376' width='232' height='72' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='464.0' y='420.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>30-60 plasma samples</text>
+<path d='M334.0,402.0 L345.0,402.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#m6f9bff)'></path>
+<line x1='334' y1='252' x2='334' y2='432' stroke='#6f9bff' stroke-width='2'/>
+<rect x='616' y='200' width='260' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='746.0' y='234.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Analysis plan</text>
+<defs><marker id='ma78bfa' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#a78bfa'/></marker></defs>
+<path d='M600.0,148.0 L600.0,174.0 L746.0,174.0 L746.0,197.0' fill='none' stroke='#a78bfa' stroke-width='2' marker-end='url(#ma78bfa)'></path>
+<rect x='644' y='290' width='232' height='72' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='760.0' y='334.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>ANOVA with post-hoc</text>
+<path d='M630.0,316.0 L641.0,316.0' fill='none' stroke='#a78bfa' stroke-width='2' marker-end='url(#ma78bfa)'></path>
+<rect x='644' y='376' width='232' height='72' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='760.0' y='420.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>p &lt; .05 significance</text>
+<path d='M630.0,402.0 L641.0,402.0' fill='none' stroke='#a78bfa' stroke-width='2' marker-end='url(#ma78bfa)'></path>
+<line x1='630' y1='252' x2='630' y2='432' stroke='#a78bfa' stroke-width='2'/>
+<rect x='912' y='200' width='264' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='1044.0' y='234.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Variables</text>
+<defs><marker id='m4ecdc4' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker></defs>
+<path d='M600.0,148.0 L600.0,174.0 L1044.0,174.0 L1044.0,197.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<rect x='940' y='290' width='236' height='96' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='1058.0' y='335.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Clot formation time</text>
+<text x='1058.0' y='356.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ NEVER MEASURED</text>
+<path d='M926.0,316.0 L937.0,316.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<rect x='940' y='400' width='236' height='96' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='1058.0' y='445.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Clot degradation rate</text>
+<text x='1058.0' y='466.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ NEVER MEASURED</text>
+<path d='M926.0,426.0 L937.0,426.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<line x1='926' y1='252' x2='926' y2='480' stroke='#4ecdc4' stroke-width='2'/>
+<text x='24' y='500' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>The registration states the design; the clot-time outcomes were</text>
+<text x='24' y='520' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>never measured and photographs stand in for them</text>
+<text x='24' y='540' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>(guide/PUBLICATIONS.md).</text>
+</svg>

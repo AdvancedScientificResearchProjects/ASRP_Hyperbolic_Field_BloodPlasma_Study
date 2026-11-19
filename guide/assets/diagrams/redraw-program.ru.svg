@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 650" width="1200" height="650" role="img" aria-labelledby="t d">
+<title id="t">Структура программы исследований</title>
+<desc id="d">Дерево. Программа исследований гиперболических полей ASRP 2026-2027 имеет четыре ветви. Исследование кровяной плазмы: анализ свёртываемости, покадровая съёмка (в планах), биохимический анализ (нет в репо). Исследование кристаллов DAAT: взаимодействие человек-кристалл. Сельскохозяйственное исследование: рост растений, выращивание грибов. Программы излучателей: ПО управления, ИИ-алгоритмы.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='650' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Структура программы исследований</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Задача 2 (папка-зеркало)</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ПЕРЕРИСОВАННАЯ СХЕМА</text>
+<rect x='350' y='96' width='500' height='72' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='600.0' y='129.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Программа исследований гиперболических полей ASRP</text>
+<text x='600.0' y='151.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>2026-2027</text>
+<rect x='24' y='210' width='262' height='72' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='155.0' y='243.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Исследование кровяной</text>
+<text x='155.0' y='265.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>плазмы</text>
+<defs><marker id='mffa657' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<path d='M600.0,168.0 L600.0,190.0 L155.0,190.0 L155.0,207.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<rect x='52' y='306' width='234' height='72' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='169.0' y='339.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Анализ</text>
+<text x='169.0' y='361.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>свёртываемости</text>
+<path d='M38.0,342.0 L49.0,342.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<rect x='52' y='392' width='234' height='82' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='169.0' y='430.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Покадровая съёмка</text>
+<text x='169.0' y='451.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>◇ В ПЛАНАХ</text>
+<path d='M38.0,433.0 L49.0,433.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<rect x='52' y='488' width='234' height='82' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='169.0' y='526.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Биохимический анализ</text>
+<text x='169.0' y='547.5' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='middle' font-weight='800'>✕ НЕТ В РЕПО</text>
+<path d='M38.0,529.0 L49.0,529.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<line x1='38' y1='282' x2='38' y2='529.0' stroke='#ffa657' stroke-width='2'/>
+<rect x='316' y='210' width='262' height='72' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='447.0' y='243.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Исследование кристаллов</text>
+<text x='447.0' y='265.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>DAAT</text>
+<defs><marker id='m4ecdc4' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#4ecdc4'/></marker></defs>
+<path d='M600.0,168.0 L600.0,190.0 L447.0,190.0 L447.0,207.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<rect x='344' y='306' width='234' height='72' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='461.0' y='339.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Взаимодействие</text>
+<text x='461.0' y='361.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>человек-кристалл</text>
+<path d='M330.0,342.0 L341.0,342.0' fill='none' stroke='#4ecdc4' stroke-width='2' marker-end='url(#m4ecdc4)'></path>
+<line x1='330' y1='282' x2='330' y2='342.0' stroke='#4ecdc4' stroke-width='2'/>
+<rect x='608' y='210' width='262' height='72' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='739.0' y='243.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Сельскохозяйственное</text>
+<text x='739.0' y='265.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>исследование</text>
+<defs><marker id='m34d399' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#34d399'/></marker></defs>
+<path d='M600.0,168.0 L600.0,190.0 L739.0,190.0 L739.0,207.0' fill='none' stroke='#34d399' stroke-width='2' marker-end='url(#m34d399)'></path>
+<rect x='636' y='306' width='234' height='72' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='753.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Рост растений</text>
+<path d='M622.0,342.0 L633.0,342.0' fill='none' stroke='#34d399' stroke-width='2' marker-end='url(#m34d399)'></path>
+<rect x='636' y='392' width='234' height='72' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='753.0' y='436.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Выращивание грибов</text>
+<path d='M622.0,428.0 L633.0,428.0' fill='none' stroke='#34d399' stroke-width='2' marker-end='url(#m34d399)'></path>
+<line x1='622' y1='282' x2='622' y2='428.0' stroke='#34d399' stroke-width='2'/>
+<rect x='900' y='210' width='262' height='72' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1031.0' y='254.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Программы излучателей</text>
+<defs><marker id='m6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M600.0,168.0 L600.0,190.0 L1031.0,190.0 L1031.0,207.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#m6f9bff)'></path>
+<rect x='928' y='306' width='234' height='72' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1045.0' y='350.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>ПО управления</text>
+<path d='M914.0,342.0 L925.0,342.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#m6f9bff)'></path>
+<rect x='928' y='392' width='234' height='72' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='1045.0' y='436.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>ИИ-алгоритмы</text>
+<path d='M914.0,428.0 L925.0,428.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#m6f9bff)'></path>
+<line x1='914' y1='282' x2='914' y2='428.0' stroke='#6f9bff' stroke-width='2'/>
+<text x='24' y='610' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Слова-статусы по guide/EVIDENCE.ru.md: биохимических данных в</text>
+<text x='24' y='630' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>репозитории нет, покадровая съёмка планируемая система.</text>
+</svg>

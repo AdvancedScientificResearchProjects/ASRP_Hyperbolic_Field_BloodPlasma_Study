@@ -161,22 +161,22 @@ def dates(lang):
 
 
 # ---------------------------------------------------------------- 4 timelapse
-def timelapse(lang):
+def timelapse(lang, v6=False):
     en = lang == "en"
     t = "Time-lapse imaging system" if en else "Система покадровой съёмки"
-    sub = "Previous README, diagram 4" if en else "Прежний README, схема 4"
-    desc = ("Flow chart left to right. Plasma samples, then time-lapse camera, then image capture at 1 frame per 5 minutes, then preprocessing, "
+    sub = ("Programme issue 6 (mirror folder)" if en else "Задача 6 (папка-зеркало)") if v6 else ("Previous README, diagram 4" if en else "Прежний README, схема 4")
+    desc = ("Flow chart left to right. Plasma samples, then time-lapse camera, then image capture%s, then preprocessing, "
             "which branches to LLM analysis and CV analysis, both ending in a comparison. This describes a planned system; the dataset is still photographs."
             if en else
-            "Блок-схема слева направо. Образцы плазмы, затем камера 4K, затем съёмка кадра раз в 5 минут, затем предобработка, "
-            "которая делится на анализ LLM и анализ CV, оба заканчиваются сравнением. Это описание планируемой системы; набор данных остаётся отдельными снимками.")
+            "Блок-схема слева направо. Образцы плазмы, затем камера%s, затем съёмка кадров, затем предобработка, "
+            "которая делится на анализ LLM и анализ CV, оба заканчиваются сравнением. Это описание планируемой системы; набор данных остаётся отдельными снимками.") % (("" if v6 else " at 1 frame per 5 minutes") if en else ("" if v6 else " 4K"))
     W, H = 1200, 380
     cv = Canvas(W, H, t, desc, t, sub, TAG[lang])
     bw, y, h = 170, 170, 96
     bx = [24, 24 + 205, 24 + 410, 24 + 615]
     b1 = cv.box(bx[0], y, bw, "Plasma samples" if en else "Образцы плазмы", [], stroke=GOLD, h=h, center=True)
-    b2 = cv.box(bx[1], y, bw, "Time-lapse camera" if en else "Камера 4K", [], stroke=TEAL, h=h, center=True, status=[PLAN[lang]] if False else [])
-    b3 = cv.box(bx[2], y, bw, "Image capture" if en else "Съёмка кадров", ["1 frame / 5 min" if en else "1 кадр / 5 мин"], stroke=BLUE, h=h, center=True)
+    b2 = cv.box(bx[1], y, bw, "Time-lapse camera" if en else ("Камера" if v6 else "Камера 4K"), [], stroke=TEAL, h=h, center=True)
+    b3 = cv.box(bx[2], y, bw, "Image capture" if en else ("Захват" if v6 else "Съёмка кадров"), [] if v6 else ["1 frame / 5 min" if en else "1 кадр / 5 мин"], stroke=BLUE, h=h, center=True)
     b4 = cv.box(bx[3], y, bw, "Preprocessing" if en else "Предобработка", [], stroke=GREEN, h=h, center=True)
     for a, b in ((b1, b2), (b2, b3), (b3, b4)):
         cv.arrow([(a[0] + a[2], y + h / 2), (b[0] - 3, y + h / 2)], MUTED)
@@ -270,10 +270,14 @@ def protocol(lang):
 
 
 def main():
+    import redraws_more
+    redraws_more.main()
+
     for lang in ("en", "ru"):
         for name, fn in (("overview", overview), ("patent", patent), ("dates", dates),
                          ("timelapse", timelapse), ("pipeline", pipeline), ("protocol", protocol)):
             write("guide/assets/diagrams/redraw-%s.%s.svg" % (name, lang), fn(lang))
+        write("guide/assets/diagrams/redraw-issue6-imaging.%s.svg" % lang, timelapse(lang, True))
 
 
 if __name__ == "__main__":

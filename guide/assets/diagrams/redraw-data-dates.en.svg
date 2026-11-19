@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 250" width="1200" height="250" role="img" aria-labelledby="t d">
+<title id="t">Collection dates and photographs per donor code</title>
+<desc id="d">Seven boxes joined by arrows: Jan 24 P01 13 photographs, Jan 28 P02 25, Jan 29 P03 16, Jan 30 P04 4, Jan 31 P05 10, Feb 01 P06 3, Feb 07 P07 30.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='250' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Collection dates and photographs per donor code</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Previous README, data diagram 4</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>REDRAWN FIGURE</text>
+<rect x='24' y='110' width='142' height='76' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='95.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Jan 24</text>
+<text x='95.0' y='166.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>P01 (13)</text>
+<rect x='190' y='110' width='142' height='76' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='261.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Jan 28</text>
+<text x='261.0' y='166.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>P02 (25)</text>
+<defs><marker id='m8ea0d6' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#8ea0d6'/></marker></defs>
+<path d='M168.0,148.0 L188.0,148.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='356' y='110' width='142' height='76' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='427.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Jan 29</text>
+<text x='427.0' y='166.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>P03 (16)</text>
+<path d='M334.0,148.0 L354.0,148.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='522' y='110' width='142' height='76' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='593.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Jan 30</text>
+<text x='593.0' y='166.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>P04 (4)</text>
+<path d='M500.0,148.0 L520.0,148.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='688' y='110' width='142' height='76' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='759.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Jan 31</text>
+<text x='759.0' y='166.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>P05 (10)</text>
+<path d='M666.0,148.0 L686.0,148.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='854' y='110' width='142' height='76' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='925.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Feb 01</text>
+<text x='925.0' y='166.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>P06 (3)</text>
+<path d='M832.0,148.0 L852.0,148.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='1020' y='110' width='142' height='76' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='1091.0' y='146.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Feb 07</text>
+<text x='1091.0' y='166.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>P07 (30)</text>
+<path d='M998.0,148.0 L1018.0,148.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<text x='24' y='230' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Number in brackets: photographs of that donor code.</text>
+</svg>

@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t d">
 <title id="t">Система покадровой съёмки</title>
-<desc id="d">Блок-схема слева направо. Образцы плазмы, затем камера 4K, затем съёмка кадра раз в 5 минут, затем предобработка, которая делится на анализ LLM и анализ CV, оба заканчиваются сравнением. Это описание планируемой системы; набор данных остаётся отдельными снимками.</desc>
+<desc id="d">Блок-схема слева направо. Образцы плазмы, затем камера 4K, затем съёмка кадров, затем предобработка, которая делится на анализ LLM и анализ CV, оба заканчиваются сравнением. Это описание планируемой системы; набор данных остаётся отдельными снимками.</desc>
 <defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
 <rect width='1200' height='380' rx='18' fill='url(#bg)'/>
 
