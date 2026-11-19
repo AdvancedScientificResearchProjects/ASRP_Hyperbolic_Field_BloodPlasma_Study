@@ -60,3 +60,19 @@
 | Отчёты | <!--n:reports_dated-->4<!--/n--> датированных отчёта и протокол | `original_research/reports/` |
 
 PDF-протоколы (по 19,7-93,5 МБ) лежат обычными блобами Git, не в Git LFS; рабочее дерево около 1,8 ГБ. Структура папок: см. [Навигация и структура](NAVIGATION.ru.md).
+
+## Ещё схемы, перерисованные из прежнего README и задач программы
+
+Каждая схема ниже была Mermaid-PNG; она перерисована с тем же содержанием, оригинал остаётся в репозитории.
+
+<div align="center">
+<a href="assets/diagrams/redraw-data-photos.ru.svg"><img src="assets/diagrams/redraw-data-photos.ru.svg" width="100%" alt="Круговая диаграмма 101 фотографии по анонимным кодам доноров, Пациент 01-07"></a>
+
+Исходная схема: <a href="../original_research/charts/mermaid/data_1.png"><code>original_research/charts/mermaid/data_1.png</code></a> · <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdataretry_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdataretry_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-data-dates.ru.svg"><img src="assets/diagrams/redraw-data-dates.ru.svg" width="100%" alt="Семь дат сбора с числом фотографий по кодам доноров"></a>
+
+Исходная схема: <a href="../original_research/charts/mermaid/data_4.png"><code>original_research/charts/mermaid/data_4.png</code></a> · <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdata_2.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdata_2.png</code></a>
+</div>

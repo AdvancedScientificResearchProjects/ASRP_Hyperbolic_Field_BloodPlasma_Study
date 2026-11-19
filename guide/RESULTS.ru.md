@@ -96,3 +96,19 @@
 - **Ни одна модель CV не достигает p ниже 0.05.** Лучшая, проб DINOv2, даёт <!--n:dino_probe-->47.4<!--/n-->% (9 из <!--n:triplets-->19<!--/n-->, точное p <!--n:dino_probe_p-->0.1462<!--/n-->); авторы называют это «наводящим, но неубедительным». Обрезка по плазме снижает результат с <!--n:dino_full-->47.8<!--/n-->% (целое фото) до <!--n:dino_sam-->34.3<!--/n-->%: сигнал в контексте пробирки, а не в жидкости.
 - **Промпт имеет значение.** На тех же изображениях Perplexity выбирал канал 19 в <!--n:perplexity_unblinded-->0<!--/n-->% вердиктов без слепоты и в <!--n:perplexity_blinded-->53<!--/n-->% слепых.
 - **Единица это донор.** <!--n:triplets_ru-->19 триплетов<!--/n--> получены от <!--n:triplet_donors-->5<!--/n--> доноров; повторные прогоны тех же триплетов доноров не добавляют.
+
+## Ещё схемы, перерисованные из прежнего README и задач программы
+
+Каждая схема ниже была Mermaid-PNG; она перерисована с тем же содержанием, оригинал остаётся в репозитории.
+
+<div align="center">
+<a href="assets/diagrams/redraw-data-metrics.ru.svg"><img src="assets/diagrams/redraw-data-metrics.ru.svg" width="100%" alt="Колонки контроля, канала 19 и канала 21 со значениями из прежнего README, только заявлено"></a>
+
+Исходная схема: <a href="../original_research/charts/mermaid/data_2.png"><code>original_research/charts/mermaid/data_2.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-data-flow.ru.svg"><img src="assets/diagrams/redraw-data-flow.ru.svg" width="100%" alt="Образцы плазмы, три условия, приведённые числа сгустков и площади, только заявлено"></a>
+
+Исходная схема: <a href="../original_research/charts/mermaid/data_3.png"><code>original_research/charts/mermaid/data_3.png</code></a>
+</div>

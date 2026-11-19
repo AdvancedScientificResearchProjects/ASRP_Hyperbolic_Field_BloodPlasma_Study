@@ -60,3 +60,19 @@ Photographs are kept per donor in `original_research/data/patient-XX/photos/` (`
 | Reports | <!--n:reports_dated-->4<!--/n--> dated reports plus the protocol | `original_research/reports/` |
 
 The protocol PDFs (19.7 to 93.5 MB each) are ordinary Git blobs, not Git LFS; the working tree is about 1.8 GB. Folder layout: see [Navigation and structure](NAVIGATION.md).
+
+## More figures redrawn from the previous README and the programme issues
+
+Each figure below was a Mermaid PNG; it is redrawn with the same content and the original stays in the repository.
+
+<div align="center">
+<a href="assets/diagrams/redraw-data-photos.en.svg"><img src="assets/diagrams/redraw-data-photos.en.svg" width="100%" alt="Pie chart of 101 photographs by anonymous donor code, Patient 01 to 07"></a>
+
+Original figure: <a href="../original_research/charts/mermaid/data_1.png"><code>original_research/charts/mermaid/data_1.png</code></a> · <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdataretry_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdataretry_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-data-dates.en.svg"><img src="assets/diagrams/redraw-data-dates.en.svg" width="100%" alt="Seven collection dates with photograph counts per donor code"></a>
+
+Original figure: <a href="../original_research/charts/mermaid/data_4.png"><code>original_research/charts/mermaid/data_4.png</code></a> · <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdata_2.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdata_2.png</code></a>
+</div>

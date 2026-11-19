@@ -45,3 +45,19 @@ README сообщает, что исследование было предвар
 ## План публикации
 
 Задача 8, «Подготовка научной статьи», планирует статью для журнала ASRP.science, исполнитель — директор по науке. Её график идёт от черновика рукописи в марте 2026 до подачи в журнал и онлайн-публикации в конце мая 2026 («Ожидаемая публикация: апрель-май 2026»). **В репозитории нет ни рукописи, ни записи о подаче**, а задача по-прежнему в статусе «В производстве». Задача также называет цифры CV-детектора «статистически значимыми находками, готовыми к публикации»; теста за ними нет (см. [Свидетельства](EVIDENCE.ru.md)). Документы исследования обновлялись последний раз 26 марта 2026, поэтому репозиторий молчит о том, вышла ли статья.
+
+## Ещё схемы, перерисованные из прежнего README и задач программы
+
+Каждая схема ниже была Mermaid-PNG; она перерисована с тем же содержанием, оригинал остаётся в репозитории.
+
+<div align="center">
+<a href="assets/diagrams/redraw-osf.ru.svg"><img src="assets/diagrams/redraw-osf.ru.svg" width="100%" alt="Дерево регистрации OSF: гипотеза, план выборки, план анализа, переменные"></a>
+
+Исходная схема: <a href="../original_research/charts/mermaid/osf_1.png"><code>original_research/charts/mermaid/osf_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-gantt.ru.svg"><img src="assets/diagrams/redraw-gantt.ru.svg" width="100%" alt="План публикации в виде диаграммы Ганта, март-май 2026, всё в планах"></a>
+
+Исходная схема: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_8_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_8_1.png</code></a>
+</div>

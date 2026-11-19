@@ -69,3 +69,31 @@ The studies are siblings; no code or data from one is imported into another. The
 | 1 | Fractal FBHFS Patent | [View](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) | KZ 2025/1095.1 | Filed |
 
 The data and code of this study were imported from an earlier working repository (`HyperbolicField-BloodPlasma-Study`).
+
+## More figures redrawn from the previous README and the programme issues
+
+Each figure below was a Mermaid PNG; it is redrawn with the same content and the original stays in the repository.
+
+<div align="center">
+<a href="assets/diagrams/redraw-program.en.svg"><img src="assets/diagrams/redraw-program.en.svg" width="100%" alt="Research programme tree: four studies and their parts"></a>
+
+Original figure: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-team.en.svg"><img src="assets/diagrams/redraw-team.en.svg" width="100%" alt="Team members linked to projects"></a>
+
+Original figure: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_2.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_2.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-repo.en.svg"><img src="assets/diagrams/redraw-repo.en.svg" width="100%" alt="Data, analysis and team structure of the repository"></a>
+
+Original figure: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2retry_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2retry_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-roadmap.en.svg"><img src="assets/diagrams/redraw-roadmap.en.svg" width="100%" alt="Programme roadmap from January to the future 30 donors"></a>
+
+Original figure: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_4.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_4.png</code></a>
+</div>

@@ -93,3 +93,25 @@
 ### Ссылки
 
 Код лежит в `original_research/scripts/` (<!--n:scripts_py-->22<!--/n--> файла Python, около <!--n:scripts_lines-->7290<!--/n--> строк): `llm_analysis/` (providers, prompts, imaging, data, parsing, run_batch, run_comparative, run_multi_tube, run_single) и `cv_analysis/` (segment, ml_models, скрипты запуска, выходы по фото). Ни один скрипт не считает p-значения из отчётов; они есть только в тексте отчётов.
+
+## Ещё схемы, перерисованные из прежнего README и задач программы
+
+Каждая схема ниже была Mermaid-PNG; она перерисована с тем же содержанием, оригинал остаётся в репозитории.
+
+<div align="center">
+<a href="assets/diagrams/redraw-donor-flow.ru.svg"><img src="assets/diagrams/redraw-donor-flow.ru.svg" width="100%" alt="Протокол по плазме крови в одиннадцать шагов"></a>
+
+Исходная схема: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_3_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_3_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-biochem.ru.svg"><img src="assets/diagrams/redraw-biochem.ru.svg" width="100%" alt="Схема интеграции биохимии, биохимической ветви в репозитории нет"></a>
+
+Исходная схема: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_5_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_5_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-issue6-imaging.ru.svg"><img src="assets/diagrams/redraw-issue6-imaging.ru.svg" width="100%" alt="Планируемая схема покадровой съёмки из задачи 6"></a>
+
+Исходная схема: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_6_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_6_1.png</code></a>
+</div>

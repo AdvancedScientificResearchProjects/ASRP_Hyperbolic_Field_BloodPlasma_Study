@@ -93,3 +93,25 @@ Original figure: <a href="../original_research/charts/mermaid/root_4.png"><code>
 ### References
 
 Code lives in `original_research/scripts/` (<!--n:scripts_py-->22<!--/n--> Python files, about <!--n:scripts_lines-->7290<!--/n--> lines): `llm_analysis/` (providers, prompts, imaging, data, parsing, run_batch, run_comparative, run_multi_tube, run_single) and `cv_analysis/` (segment, ml_models, run scripts, per-photo outputs). No script computes the p-values quoted in the reports; they appear only in report text.
+
+## More figures redrawn from the previous README and the programme issues
+
+Each figure below was a Mermaid PNG; it is redrawn with the same content and the original stays in the repository.
+
+<div align="center">
+<a href="assets/diagrams/redraw-donor-flow.en.svg"><img src="assets/diagrams/redraw-donor-flow.en.svg" width="100%" alt="Eleven-step blood plasma protocol flow"></a>
+
+Original figure: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_3_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_3_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-biochem.en.svg"><img src="assets/diagrams/redraw-biochem.en.svg" width="100%" alt="Biochemical integration flow, biochemical branch not in the repository"></a>
+
+Original figure: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_5_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_5_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-issue6-imaging.en.svg"><img src="assets/diagrams/redraw-issue6-imaging.en.svg" width="100%" alt="Planned time-lapse imaging flow of programme issue 6"></a>
+
+Original figure: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_6_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_6_1.png</code></a>
+</div>

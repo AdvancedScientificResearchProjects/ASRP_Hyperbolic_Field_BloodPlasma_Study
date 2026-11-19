@@ -96,3 +96,19 @@ What to take from it:
 - **No CV model reaches p below 0.05.** The best, the DINOv2 probe, scores <!--n:dino_probe-->47.4<!--/n-->% (9 of <!--n:triplets-->19<!--/n-->, exact p <!--n:dino_probe_p-->0.1462<!--/n-->); the authors call it "suggestive but inconclusive". Cropping to the plasma drops it from <!--n:dino_full-->47.8<!--/n-->% (full photo) to <!--n:dino_sam-->34.3<!--/n-->%: the signal sits in the tube context, not in the liquid.
 - **The prompt matters.** On identical images Perplexity picked channel 19 in <!--n:perplexity_unblinded-->0<!--/n-->% of unblinded and <!--n:perplexity_blinded-->53<!--/n-->% of blinded verdicts.
 - **The unit is the donor.** <!--n:triplets-->19<!--/n--> triplets come from <!--n:triplet_donors-->5<!--/n--> donors; repeated runs of the same triplets add no donors.
+
+## More figures redrawn from the previous README and the programme issues
+
+Each figure below was a Mermaid PNG; it is redrawn with the same content and the original stays in the repository.
+
+<div align="center">
+<a href="assets/diagrams/redraw-data-metrics.en.svg"><img src="assets/diagrams/redraw-data-metrics.en.svg" width="100%" alt="Control, channel 19 and channel 21 columns with the previous README's quoted values, claimed only"></a>
+
+Original figure: <a href="../original_research/charts/mermaid/data_2.png"><code>original_research/charts/mermaid/data_2.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-data-flow.en.svg"><img src="assets/diagrams/redraw-data-flow.en.svg" width="100%" alt="Plasma samples to three conditions to the quoted clot counts and areas, claimed only"></a>
+
+Original figure: <a href="../original_research/charts/mermaid/data_3.png"><code>original_research/charts/mermaid/data_3.png</code></a>
+</div>

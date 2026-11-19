@@ -69,3 +69,31 @@
 | 1 | Fractal FBHFS Patent | [Открыть](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent) | KZ 2025/1095.1 | Подан |
 
 Данные и код этого исследования импортированы из более раннего рабочего репозитория (`HyperbolicField-BloodPlasma-Study`).
+
+## Ещё схемы, перерисованные из прежнего README и задач программы
+
+Каждая схема ниже была Mermaid-PNG; она перерисована с тем же содержанием, оригинал остаётся в репозитории.
+
+<div align="center">
+<a href="assets/diagrams/redraw-program.ru.svg"><img src="assets/diagrams/redraw-program.ru.svg" width="100%" alt="Дерево программы исследований: четыре исследования и их части"></a>
+
+Исходная схема: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-team.ru.svg"><img src="assets/diagrams/redraw-team.ru.svg" width="100%" alt="Участники команды и их проекты"></a>
+
+Исходная схема: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_2.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_2.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-repo.ru.svg"><img src="assets/diagrams/redraw-repo.ru.svg" width="100%" alt="Структура данных, анализа и команды репозитория"></a>
+
+Исходная схема: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2retry_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2retry_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-roadmap.ru.svg"><img src="assets/diagrams/redraw-roadmap.ru.svg" width="100%" alt="Дорожная карта программы от января до будущих 30 доноров"></a>
+
+Исходная схема: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_4.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_4.png</code></a>
+</div>

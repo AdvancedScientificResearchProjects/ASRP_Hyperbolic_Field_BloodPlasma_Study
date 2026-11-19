@@ -45,3 +45,19 @@ A companion registration for the yeast study exists (OSF osf.io/vxkum); the two 
 ## Publication plan
 
 Issue 8, "Peer review publication preparation", plans a paper for the ASRP.science journal, assigned to the Science Director. Its timeline runs from a manuscript draft in March 2026 to journal submission and online publication in late May 2026 ("Expected Publication: April-May 2026"). **The repository contains no manuscript and no submission record**, and the issue still reads "In Production". The issue also calls the CV-detector numbers "statistically significant findings ready for publication"; no test stands behind them (see [Evidence](EVIDENCE.md)). The study documents were last updated on 26 March 2026, so the repository is silent on whether a paper appeared.
+
+## More figures redrawn from the previous README and the programme issues
+
+Each figure below was a Mermaid PNG; it is redrawn with the same content and the original stays in the repository.
+
+<div align="center">
+<a href="assets/diagrams/redraw-osf.en.svg"><img src="assets/diagrams/redraw-osf.en.svg" width="100%" alt="OSF preregistration tree: hypothesis, sampling plan, analysis plan, variables"></a>
+
+Original figure: <a href="../original_research/charts/mermaid/osf_1.png"><code>original_research/charts/mermaid/osf_1.png</code></a>
+</div>
+
+<div align="center">
+<a href="assets/diagrams/redraw-gantt.en.svg"><img src="assets/diagrams/redraw-gantt.en.svg" width="100%" alt="Publication plan as a Gantt chart, March to May 2026, all planned"></a>
+
+Original figure: <a href="../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_8_1.png"><code>ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_8_1.png</code></a>
+</div>
