@@ -20,6 +20,19 @@ Every figure the repository holds is either embedded on a page of this guide or 
 | [`redraw-timelapse.en.svg`](assets/diagrams/redraw-timelapse.en.svg) | Planned time-lapse imaging system | [METHODS](METHODS.md) | [`original_research/charts/mermaid/root_4.png`](../original_research/charts/mermaid/root_4.png) |
 | [`redraw-pipeline.en.svg`](assets/diagrams/redraw-pipeline.en.svg) | Analysis pipeline: CV, LLM, comparison, statistics | [METHODS](METHODS.md) | [`original_research/charts/mermaid/root_5.png`](../original_research/charts/mermaid/root_5.png) |
 | [`redraw-protocol.en.svg`](assets/diagrams/redraw-protocol.en.svg) | Experimental protocol from blood collection to reports | [METHODS](METHODS.md) | [`original_research/charts/mermaid/root_6.png`](../original_research/charts/mermaid/root_6.png) |
+| [`redraw-data-photos.en.svg`](assets/diagrams/redraw-data-photos.en.svg) | Photographs by anonymous donor code (pie, shares and counts) | [DATA](DATA.md) | [`original_research/charts/mermaid/data_1.png`](../original_research/charts/mermaid/data_1.png) |
+| [`redraw-data-metrics.en.svg`](assets/diagrams/redraw-data-metrics.en.svg) | Three condition columns with the previous README's quoted metrics (claimed only) | [RESULTS](RESULTS.md) | [`original_research/charts/mermaid/data_2.png`](../original_research/charts/mermaid/data_2.png) |
+| [`redraw-data-flow.en.svg`](assets/diagrams/redraw-data-flow.en.svg) | Samples to three conditions to the quoted clot count and area (claimed only) | [RESULTS](RESULTS.md) | [`original_research/charts/mermaid/data_3.png`](../original_research/charts/mermaid/data_3.png) |
+| [`redraw-data-dates.en.svg`](assets/diagrams/redraw-data-dates.en.svg) | Collection dates with photograph counts per donor code | [DATA](DATA.md) | [`original_research/charts/mermaid/data_4.png`](../original_research/charts/mermaid/data_4.png) |
+| [`redraw-osf.en.svg`](assets/diagrams/redraw-osf.en.svg) | OSF preregistration tree: hypothesis, sampling, analysis, variables | [PUBLICATIONS](PUBLICATIONS.md) | [`original_research/charts/mermaid/osf_1.png`](../original_research/charts/mermaid/osf_1.png) |
+| [`redraw-program.en.svg`](assets/diagrams/redraw-program.en.svg) | Research programme tree: four studies and their parts (mirror, issue 2) | [ECOSYSTEM](ECOSYSTEM.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_1.png) |
+| [`redraw-team.en.svg`](assets/diagrams/redraw-team.en.svg) | Team members linked to projects (mirror, issue 2) | [ECOSYSTEM](ECOSYSTEM.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_2.png) |
+| [`redraw-repo.en.svg`](assets/diagrams/redraw-repo.en.svg) | Data, analysis and team structure (mirror, issue 2) | [ECOSYSTEM](ECOSYSTEM.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2retry_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2retry_1.png) |
+| [`redraw-roadmap.en.svg`](assets/diagrams/redraw-roadmap.en.svg) | Programme roadmap, January to future 30 donors (mirror, issue 2) | [ECOSYSTEM](ECOSYSTEM.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_4.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_4.png) |
+| [`redraw-donor-flow.en.svg`](assets/diagrams/redraw-donor-flow.en.svg) | Eleven-step blood plasma protocol flow (mirror, issue 3) | [METHODS](METHODS.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_3_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_3_1.png) |
+| [`redraw-biochem.en.svg`](assets/diagrams/redraw-biochem.en.svg) | Biochemical integration flow (mirror, issue 5) | [METHODS](METHODS.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_5_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_5_1.png) |
+| [`redraw-issue6-imaging.en.svg`](assets/diagrams/redraw-issue6-imaging.en.svg) | Time-lapse imaging flow, issue 6 variant (mirror, issue 6) | [METHODS](METHODS.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_6_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_6_1.png) |
+| [`redraw-gantt.en.svg`](assets/diagrams/redraw-gantt.en.svg) | Publication plan as a Gantt chart (mirror, issue 8) | [PUBLICATIONS](PUBLICATIONS.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_8_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_8_1.png) |
 
 ## Charts and diagrams shown on the pages
 
@@ -28,16 +41,6 @@ Every figure the repository holds is either embedded on a page of this guide or 
 | [`original_research/charts/photos_by_patient.png`](../original_research/charts/photos_by_patient.png) | Pie chart of 101 photographs by anonymous donor code (Patient 01-07, shares only) | [RESULTS](RESULTS.md) |
 | [`original_research/charts/comparative_results.png`](../original_research/charts/comparative_results.png) | Control against channel 19 and channel 21: the previous README's summary chart | [RESULTS](RESULTS.md) |
 | [`original_research/charts/channel_effects.png`](../original_research/charts/channel_effects.png) | Channel effects: the previous README's summary chart | [RESULTS](RESULTS.md) |
-
-## Previous README diagrams kept as files
-
-| Figure | What it shows | Folder |
-|---|---|---|
-| [`original_research/charts/mermaid/data_1.png`](../original_research/charts/mermaid/data_1.png) | Pie chart of photographs by donor code (same data as photos_by_patient.png) | `original_research/charts/mermaid` |
-| [`original_research/charts/mermaid/data_2.png`](../original_research/charts/mermaid/data_2.png) | Three columns, control, channel 19, channel 21, with the previous README's clot count, area, texture, edge and LLM values (claims, see Evidence) | `original_research/charts/mermaid` |
-| [`original_research/charts/mermaid/data_3.png`](../original_research/charts/mermaid/data_3.png) | Plasma samples to three conditions to the clot count and area quoted by the previous README (claims, see Evidence) | `original_research/charts/mermaid` |
-| [`original_research/charts/mermaid/data_4.png`](../original_research/charts/mermaid/data_4.png) | Collection dates with photo counts per donor code (P01 13, P02 25, P03 16, P04 4, P05 10, P06 3, P07 30) | `original_research/charts/mermaid` |
-| [`original_research/charts/mermaid/osf_1.png`](../original_research/charts/mermaid/osf_1.png) | OSF preregistration tree: hypothesis, sampling plan, analysis plan, variables | `original_research/charts/mermaid` |
 
 ## Report charts
 
@@ -67,14 +70,52 @@ Each report page of the repository embeds its own charts; they are listed here w
 | [`original_research/reports/2026-03-14_cv-ml-analysis/charts/chart_per_patient.png`](../original_research/reports/2026-03-14_cv-ml-analysis/charts/chart_per_patient.png) | DINOv2 probe: per-donor-code channel 19 win count (leave-patient-out) | [`2026-03-14_cv-ml-analysis`](../original_research/reports/2026-03-14_cv-ml-analysis/report_en.md) |
 | [`original_research/reports/2026-03-14_cv-ml-analysis/charts/chart_multichain.png`](../original_research/reports/2026-03-14_cv-ml-analysis/charts/chart_multichain.png) | Multi-chain pipeline: cropping the plasma degrades the signal | [`2026-03-14_cv-ml-analysis`](../original_research/reports/2026-03-14_cv-ml-analysis/report_en.md) |
 
-## Mirror folder and per-donor folders
+## Mirror folder, file by file
+
+The 32 PNG in `ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid` were compared by content with the root diagrams. 5 are byte-identical copies, 5 show the same diagram as a root figure (different render or crop), 8 are distinct schemas and are redrawn above, 7 are per-donor photo pies (data charts, listed only) and 7 are per-donor session timelines with minute-level times, which are withheld (aggregates-only rule, see [Ethics](ETHICS.md)).
+
+| Mirror file | Status | Where it is shown |
+|---|---|---|
+| [`advreadme_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_1.png) | Identical copy of `root_1.png` | [redraw-overview.en.svg](assets/diagrams/redraw-overview.en.svg) on [STUDY](STUDY.md) |
+| [`advreadme_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_2.png) | Identical copy of `root_2.png` | [redraw-patent.en.svg](assets/diagrams/redraw-patent.en.svg) on [PUBLICATIONS](PUBLICATIONS.md) |
+| [`advreadme_4.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_4.png) | Identical copy of `root_4.png` | [redraw-timelapse.en.svg](assets/diagrams/redraw-timelapse.en.svg) on [METHODS](METHODS.md) |
+| [`advreadme_6.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_6.png) | Identical copy of `root_6.png` | [redraw-protocol.en.svg](assets/diagrams/redraw-protocol.en.svg) on [METHODS](METHODS.md) |
+| [`issue_1_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_1_1.png) | Identical copy of `root_6.png` | [redraw-protocol.en.svg](assets/diagrams/redraw-protocol.en.svg) on [METHODS](METHODS.md) |
+| [`advreadme_3.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_3.png) | Same diagram as `root_3.png`, other render | [redraw-dates.en.svg](assets/diagrams/redraw-dates.en.svg) on [RESULTS](RESULTS.md) |
+| [`advreadme_5.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_5.png) | Same diagram as `root_5.png`, other render | [redraw-pipeline.en.svg](assets/diagrams/redraw-pipeline.en.svg) on [METHODS](METHODS.md) |
+| [`issue_1_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_1_2.png) | Same diagram as `root_5.png`, other render | [redraw-pipeline.en.svg](assets/diagrams/redraw-pipeline.en.svg) on [METHODS](METHODS.md) |
+| [`advdata_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdata_2.png) | Same diagram as `data_4.png`, other render | [redraw-data-dates.en.svg](assets/diagrams/redraw-data-dates.en.svg) on [DATA](DATA.md) |
+| [`advdataretry_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdataretry_1.png) | Same diagram as `data_1.png`, other render | [redraw-data-photos.en.svg](assets/diagrams/redraw-data-photos.en.svg) on [DATA](DATA.md) |
+| [`issue_2_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_1.png) | Distinct schema, redrawn | [redraw-program.en.svg](assets/diagrams/redraw-program.en.svg) on [ECOSYSTEM](ECOSYSTEM.md) |
+| [`issue_2_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_2.png) | Distinct schema, redrawn | [redraw-team.en.svg](assets/diagrams/redraw-team.en.svg) on [ECOSYSTEM](ECOSYSTEM.md) |
+| [`issue_2retry_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2retry_1.png) | Distinct schema, redrawn | [redraw-repo.en.svg](assets/diagrams/redraw-repo.en.svg) on [ECOSYSTEM](ECOSYSTEM.md) |
+| [`issue_2_4.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_4.png) | Distinct schema, redrawn | [redraw-roadmap.en.svg](assets/diagrams/redraw-roadmap.en.svg) on [ECOSYSTEM](ECOSYSTEM.md) |
+| [`issue_3_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_3_1.png) | Distinct schema, redrawn | [redraw-donor-flow.en.svg](assets/diagrams/redraw-donor-flow.en.svg) on [METHODS](METHODS.md) |
+| [`issue_5_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_5_1.png) | Distinct schema, redrawn | [redraw-biochem.en.svg](assets/diagrams/redraw-biochem.en.svg) on [METHODS](METHODS.md) |
+| [`issue_6_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_6_1.png) | Distinct schema, redrawn | [redraw-issue6-imaging.en.svg](assets/diagrams/redraw-issue6-imaging.en.svg) on [METHODS](METHODS.md) |
+| [`issue_8_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_8_1.png) | Distinct schema, redrawn | [redraw-gantt.en.svg](assets/diagrams/redraw-gantt.en.svg) on [PUBLICATIONS](PUBLICATIONS.md) |
+| [`advp01_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp01_1.png) | Per-donor photo-share pie (data chart, anonymous code) | listed only |
+| [`advp02_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp02_1.png) | Per-donor photo-share pie (data chart, anonymous code) | listed only |
+| [`advp03_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp03_1.png) | Per-donor photo-share pie (data chart, anonymous code) | listed only |
+| [`advp04retry_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp04retry_1.png) | Per-donor photo-share pie (data chart, anonymous code) | listed only |
+| [`advp05_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp05_1.png) | Per-donor photo-share pie (data chart, anonymous code) | listed only |
+| [`advp06_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp06_1.png) | Per-donor photo-share pie (data chart, anonymous code) | listed only |
+| [`advp07_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp07_1.png) | Per-donor photo-share pie (data chart, anonymous code) | listed only |
+| [`advp01_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp01_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
+| [`advp02_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp02_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
+| [`advp03_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp03_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
+| [`advp04_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp04_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
+| [`advp05_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp05_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
+| [`advp06_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp06_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
+| [`advp07_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp07_2.png) | Per-donor session timeline with minute-level times | withheld: donor-level times (aggregates-only rule) |
+
+## Per-donor folders
 
 | Figures | What they are | Folder |
 |---|---|---|
-| 32 PNG | Mermaid renders of the diagrams of the mirror folder's README, issue and protocol texts (`advreadme_*`, `advdata_*`, `advp01_*`..`advp07_*`, `issue_*`); the mirror repeats the same material as the root | `ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid` |
-| 16 PNG | One photo-distribution pie chart per donor folder, by condition (`p01_*`..`p07_*`); listed as data of the donor folders, not reproduced | `original_research/data/patient-0N/photos/mermaid` |
+| 16 PNG | One photo-distribution pie chart per donor folder, by condition (`p01_*`..`p07_*`); data of the donor folders, listed and not reproduced | `original_research/data/patient-0N/photos/mermaid` |
 | JPG, HEIC | The raw and converted photographs themselves | `original_research/data/patient-0N/photos/{jpg,original}` (raw data, see [Data](DATA.md)) |
 
 ## Generated by this restructuring
 
-The banner, the six study diagrams (`study-design`, `units`, `claimed-vs-shown`, `blinded-results`, `timeline`), the navigation icons and the six redraws above live in `guide/assets/`, are built by `tools/build_visuals.py` and `tools/build_redraws.py`, and carry no donor-level data.
+The banner, the study diagrams (`study-design`, `units`, `claimed-vs-shown`, `blinded-results`, `timeline`), the navigation icons and the redraws above live in `guide/assets/`, are built by `tools/build_visuals.py` and `tools/build_redraws.py`, and carry no donor-level data.

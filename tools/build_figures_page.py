@@ -9,13 +9,41 @@ M = "original_research/charts/mermaid/"
 RP = "original_research/reports/"
 C = "original_research/charts/"
 # (path or paths, EN what, RU what, EN where, RU where)
+MR = "ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/"
 REDRAW = [
- ("root_1.png", "Research overview: donors to reports; channel 19 and 21 as the hypothesis", "Обзор исследования: от доноров до отчётов; каналы 19 и 21 как гипотеза", "redraw-overview", "STUDY"),
- ("root_2.png", "Patent application KZ 2025/1095.1 and the studies that use the emitters", "Патентная заявка KZ 2025/1095.1 и исследования, где используются излучатели", "redraw-patent", "PUBLICATIONS"),
- ("root_3.png", "Seven donor collection dates and four dated reports", "Семь дат сбора по донорам и четыре датированных отчёта", "redraw-dates", "RESULTS"),
- ("root_4.png", "Planned time-lapse imaging system", "Планируемая система покадровой съёмки", "redraw-timelapse", "METHODS"),
- ("root_5.png", "Analysis pipeline: CV, LLM, comparison, statistics", "Конвейер анализа: CV, LLM, сравнение, статистика", "redraw-pipeline", "METHODS"),
- ("root_6.png", "Experimental protocol from blood collection to reports", "Протокол эксперимента от забора крови до отчётов", "redraw-protocol", "METHODS"),
+ (M + "root_1.png", "Research overview: donors to reports; channel 19 and 21 as the hypothesis", "Обзор исследования: от доноров до отчётов; каналы 19 и 21 как гипотеза", "redraw-overview", "STUDY"),
+ (M + "root_2.png", "Patent application KZ 2025/1095.1 and the studies that use the emitters", "Патентная заявка KZ 2025/1095.1 и исследования, где используются излучатели", "redraw-patent", "PUBLICATIONS"),
+ (M + "root_3.png", "Seven donor collection dates and four dated reports", "Семь дат сбора по донорам и четыре датированных отчёта", "redraw-dates", "RESULTS"),
+ (M + "root_4.png", "Planned time-lapse imaging system", "Планируемая система покадровой съёмки", "redraw-timelapse", "METHODS"),
+ (M + "root_5.png", "Analysis pipeline: CV, LLM, comparison, statistics", "Конвейер анализа: CV, LLM, сравнение, статистика", "redraw-pipeline", "METHODS"),
+ (M + "root_6.png", "Experimental protocol from blood collection to reports", "Протокол эксперимента от забора крови до отчётов", "redraw-protocol", "METHODS"),
+ (M + "data_1.png", "Photographs by anonymous donor code (pie, shares and counts)", "Фотографии по анонимным кодам доноров (круг, доли и числа)", "redraw-data-photos", "DATA"),
+ (M + "data_2.png", "Three condition columns with the previous README's quoted metrics (claimed only)", "Три колонки условий с приведёнными метриками прежнего README (только заявлено)", "redraw-data-metrics", "RESULTS"),
+ (M + "data_3.png", "Samples to three conditions to the quoted clot count and area (claimed only)", "Образцы, три условия, приведённые число сгустков и площадь (только заявлено)", "redraw-data-flow", "RESULTS"),
+ (M + "data_4.png", "Collection dates with photograph counts per donor code", "Даты сбора с числом фотографий по кодам доноров", "redraw-data-dates", "DATA"),
+ (M + "osf_1.png", "OSF preregistration tree: hypothesis, sampling, analysis, variables", "Дерево регистрации OSF: гипотеза, выборка, анализ, переменные", "redraw-osf", "PUBLICATIONS"),
+ (MR + "issue_2_1.png", "Research programme tree: four studies and their parts (mirror, issue 2)", "Дерево программы: четыре исследования и их части (зеркало, задача 2)", "redraw-program", "ECOSYSTEM"),
+ (MR + "issue_2_2.png", "Team members linked to projects (mirror, issue 2)", "Участники команды и проекты (зеркало, задача 2)", "redraw-team", "ECOSYSTEM"),
+ (MR + "issue_2retry_1.png", "Data, analysis and team structure (mirror, issue 2)", "Структура данных, анализа и команды (зеркало, задача 2)", "redraw-repo", "ECOSYSTEM"),
+ (MR + "issue_2_4.png", "Programme roadmap, January to future 30 donors (mirror, issue 2)", "Дорожная карта программы, от января до будущих 30 доноров (зеркало, задача 2)", "redraw-roadmap", "ECOSYSTEM"),
+ (MR + "issue_3_1.png", "Eleven-step blood plasma protocol flow (mirror, issue 3)", "Протокол по плазме крови в одиннадцать шагов (зеркало, задача 3)", "redraw-donor-flow", "METHODS"),
+ (MR + "issue_5_1.png", "Biochemical integration flow (mirror, issue 5)", "Схема интеграции биохимии (зеркало, задача 5)", "redraw-biochem", "METHODS"),
+ (MR + "issue_6_1.png", "Time-lapse imaging flow, issue 6 variant (mirror, issue 6)", "Схема покадровой съёмки, вариант задачи 6 (зеркало, задача 6)", "redraw-issue6-imaging", "METHODS"),
+ (MR + "issue_8_1.png", "Publication plan as a Gantt chart (mirror, issue 8)", "План публикации, диаграмма Ганта (зеркало, задача 8)", "redraw-gantt", "PUBLICATIONS"),
+]
+# mirror file -> (kind, reference). kinds: same-bytes, same-diagram, redrawn (own row above), pie, withheld
+MIRROR_MAP = [
+ ("advreadme_1.png", "same-bytes", "root_1.png"), ("advreadme_2.png", "same-bytes", "root_2.png"), ("advreadme_4.png", "same-bytes", "root_4.png"),
+ ("advreadme_6.png", "same-bytes", "root_6.png"), ("issue_1_1.png", "same-bytes", "root_6.png"),
+ ("advreadme_3.png", "same-diagram", "root_3.png"), ("advreadme_5.png", "same-diagram", "root_5.png"), ("issue_1_2.png", "same-diagram", "root_5.png"),
+ ("advdata_2.png", "same-diagram", "data_4.png"), ("advdataretry_1.png", "same-diagram", "data_1.png"),
+ ("issue_2_1.png", "redrawn", "redraw-program"), ("issue_2_2.png", "redrawn", "redraw-team"), ("issue_2retry_1.png", "redrawn", "redraw-repo"),
+ ("issue_2_4.png", "redrawn", "redraw-roadmap"), ("issue_3_1.png", "redrawn", "redraw-donor-flow"), ("issue_5_1.png", "redrawn", "redraw-biochem"),
+ ("issue_6_1.png", "redrawn", "redraw-issue6-imaging"), ("issue_8_1.png", "redrawn", "redraw-gantt"),
+ ("advp01_1.png", "pie", ""), ("advp02_1.png", "pie", ""), ("advp03_1.png", "pie", ""), ("advp04retry_1.png", "pie", ""),
+ ("advp05_1.png", "pie", ""), ("advp06_1.png", "pie", ""), ("advp07_1.png", "pie", ""),
+ ("advp01_2.png", "withheld", ""), ("advp02_2.png", "withheld", ""), ("advp03_2.png", "withheld", ""), ("advp04_2.png", "withheld", ""),
+ ("advp05_2.png", "withheld", ""), ("advp06_2.png", "withheld", ""), ("advp07_2.png", "withheld", ""),
 ]
 SHOWN = [
  (C + "photos_by_patient.png", "Pie chart of 101 photographs by anonymous donor code (Patient 01-07, shares only)", "Круговая диаграмма 101 фотографии по анонимным кодам доноров (Пациент 01-07, только доли)", "RESULTS"),
@@ -77,8 +105,8 @@ def build(lang):
     a("")
     a("| Figure | What it shows | Shown on | Original |" if en else "| Рисунок | Что показывает | Где показан | Исходная схема |")
     a("|---|---|---|---|")
-    for png, e, r, svg, page in REDRAW:
-        a("| [`%s.%s.svg`](assets/diagrams/%s.%s.svg) | %s | [%s](%s%s.md) | [`%s%s`](../%s%s) |" % (svg, lang, svg, lang, e if en else r, page, page, suf, M, png, M, png))
+    for orig, e, r, svg, page in REDRAW:
+        a("| [`%s.%s.svg`](assets/diagrams/%s.%s.svg) | %s | [%s](%s%s.md) | [`%s`](../%s) |" % (svg, lang, svg, lang, e if en else r, page, page, suf, orig, orig))
     a("")
     a("## " + ("Charts and diagrams shown on the pages" if en else "Диаграммы, показанные на страницах"))
     a("")
@@ -86,13 +114,6 @@ def build(lang):
     a("|---|---|---|")
     for p, e, r, page in SHOWN:
         a("| [`%s`](../%s) | %s | [%s](%s%s.md) |" % (p, p, e if en else r, page, page, suf))
-    a("")
-    a("## " + ("Previous README diagrams kept as files" if en else "Схемы прежнего README, оставленные файлами"))
-    a("")
-    a("| Figure | What it shows | Folder |" if en else "| Рисунок | Что показывает | Папка |")
-    a("|---|---|---|")
-    for ps, e, r, folder in LISTED:
-        a("| [`%s`](../%s) | %s | `%s` |" % (ps[0], ps[0], e if en else r, folder))
     a("")
     a("## " + ("Report charts" if en else "Диаграммы отчётов"))
     a("")
@@ -107,22 +128,47 @@ def build(lang):
             path = RP + folder + "/" + fn
             a("| [`%s`](../%s) | %s | [`%s`](../%s%s/report_%s.md) |" % (path, path, e if en else r, rep, RP, rep, "en" if en else "ru"))
     a("")
-    a("## " + ("Mirror folder and per-donor folders" if en else "Папка-зеркало и папки доноров"))
+    a("## " + ("Mirror folder, file by file" if en else "Папка-зеркало, файл за файлом"))
+    a("")
+    a(("The 32 PNG in `%s` were compared by content with the root diagrams. 5 are byte-identical copies, 5 show the same diagram as a root figure (different render or crop), 8 are distinct schemas and are redrawn above, 7 are per-donor photo pies (data charts, listed only) and 7 are per-donor session timelines with minute-level times, which are withheld (aggregates-only rule, see [Ethics](ETHICS.md))." % MR[:-1])
+      if en else ("32 PNG в `%s` сверены по содержанию с корневыми схемами. 5 это побайтные копии, 5 показывают ту же схему, что корневая (другой рендер или обрезка), 8 это отдельные схемы, они перерисованы выше, 7 это круговые диаграммы фотографий по донорам (диаграммы данных, только перечислены) и 7 это хронологии сессий по донорам с поминутными временами, они не воспроизводятся (правило «только агрегаты», см. [Этику](ETHICS.ru.md))." % MR[:-1]))
+    a("")
+    a("| Mirror file | Status | Where it is shown |" if en else "| Файл зеркала | Состояние | Где показан |")
+    a("|---|---|---|")
+    rd = {svg: (page, orig) for orig, _, _, svg, page in REDRAW}
+    byorig = {o: (svg, page) for o, _, _, svg, page in REDRAW}
+    for fn, kind, ref in MIRROR_MAP:
+        f = "`%s%s`" % (MR, fn)
+        link = "[`%s`](../%s%s)" % (fn, MR, fn)
+        if kind in ("same-bytes", "same-diagram"):
+            svg, page = byorig[M + ref]
+            t = ("Identical copy of `%s`" if kind == "same-bytes" else "Same diagram as `%s`, other render") % ref if en else ("Побайтная копия `%s`" if kind == "same-bytes" else "Та же схема, что `%s`, другой рендер") % ref
+            w = "[%s.%s.svg](assets/diagrams/%s.%s.svg) on [%s](%s%s.md)" % (svg, lang, svg, lang, page, page, suf)
+        elif kind == "redrawn":
+            page = rd[ref][0]
+            t = "Distinct schema, redrawn" if en else "Отдельная схема, перерисована"
+            w = "[%s.%s.svg](assets/diagrams/%s.%s.svg) on [%s](%s%s.md)" % (ref, lang, ref, lang, page, page, suf)
+        elif kind == "pie":
+            t = "Per-donor photo-share pie (data chart, anonymous code)" if en else "Круговая диаграмма долей фото по донору (диаграмма данных, анонимный код)"
+            w = "listed only" if en else "только перечислен"
+        else:
+            t = "Per-donor session timeline with minute-level times" if en else "Хронология сессии донора с поминутными временами"
+            w = "withheld: donor-level times (aggregates-only rule)" if en else "не воспроизводится: времена по донору (правило «только агрегаты»)"
+        a("| %s | %s | %s |" % (link, t, w))
+    a("")
+    a("## " + ("Per-donor folders" if en else "Папки доноров"))
     a("")
     a("| Figures | What they are | Folder |" if en else "| Рисунки | Что это | Папка |")
     a("|---|---|---|")
-    a(("| 32 PNG | Mermaid renders of the diagrams of the mirror folder's README, issue and protocol texts (`advreadme_*`, `advdata_*`, `advp01_*`..`advp07_*`, `issue_*`); the mirror repeats the same material as the root |"
-       if en else "| 32 PNG | Mermaid-рендеры схем из README, задач и протоколов папки-зеркала (`advreadme_*`, `advdata_*`, `advp01_*`..`advp07_*`, `issue_*`); зеркало повторяет тот же материал, что и корень |")
-      + " `%s` |" % MIRROR)
-    a(("| 16 PNG | One photo-distribution pie chart per donor folder, by condition (`p01_*`..`p07_*`); listed as data of the donor folders, not reproduced |"
-       if en else "| 16 PNG | По круговой диаграмме распределения фотографий на папку донора, по условиям (`p01_*`..`p07_*`); перечислены как данные папок доноров, не воспроизводятся |")
+    a(("| 16 PNG | One photo-distribution pie chart per donor folder, by condition (`p01_*`..`p07_*`); data of the donor folders, listed and not reproduced |"
+       if en else "| 16 PNG | По круговой диаграмме распределения фотографий на папку донора, по условиям (`p01_*`..`p07_*`); данные папок доноров, перечислены, не воспроизводятся |")
       + " `original_research/data/patient-0N/photos/mermaid` |")
     a(("| JPG, HEIC | The raw and converted photographs themselves | `original_research/data/patient-0N/photos/{jpg,original}` (raw data, see [Data](DATA.md)) |"
        if en else "| JPG, HEIC | Сами сырые и конвертированные фотографии | `original_research/data/patient-0N/photos/{jpg,original}` (сырые данные, см. [Данные](DATA.ru.md)) |"))
     a("")
     a("## " + ("Generated by this restructuring" if en else "Создано этой реструктуризацией"))
     a("")
-    a("The banner, the six study diagrams (`study-design`, `units`, `claimed-vs-shown`, `blinded-results`, `timeline`), the navigation icons and the six redraws above live in `guide/assets/`, are built by `tools/build_visuals.py` and `tools/build_redraws.py`, and carry no donor-level data."
+    a("The banner, the study diagrams (`study-design`, `units`, `claimed-vs-shown`, `blinded-results`, `timeline`), the navigation icons and the redraws above live in `guide/assets/`, are built by `tools/build_visuals.py` and `tools/build_redraws.py`, and carry no donor-level data."
       if en else "Баннер, диаграммы исследования (`study-design`, `units`, `claimed-vs-shown`, `blinded-results`, `timeline`), навигационные иконки и шесть перерисовок выше лежат в `guide/assets/`, собираются `tools/build_visuals.py` и `tools/build_redraws.py` и не содержат данных по донорам.")
     a("")
     return "\n".join(L)

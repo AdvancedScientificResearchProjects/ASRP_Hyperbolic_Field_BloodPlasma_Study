@@ -111,8 +111,11 @@ class NoLossTest(unittest.TestCase):
         for f in tree.stdout.split("\n"):
             if not f.lower().endswith((".png", ".jpg", ".jpeg", ".svg")):
                 continue
-            if "/data/patient-" in f or f.startswith(mirror + "/"):
-                continue  # raw per-donor photos and per-donor pies, mirror renders: one summary row each
+            if f.startswith(mirror + "/"):
+                self.assertIn(f.split("/")[-1], listed, "mirror figure not listed on FIGURES: " + f)
+                continue
+            if "/data/patient-" in f:
+                continue  # raw per-donor photos and per-donor pies: one summary row
             self.assertIn(f, everything, "figure not reachable from any page: " + f)
         self.assertIn(mirror, listed)
         self.assertIn("original_research/data/patient-0N/photos/mermaid", listed)

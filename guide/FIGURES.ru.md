@@ -20,6 +20,19 @@
 | [`redraw-timelapse.ru.svg`](assets/diagrams/redraw-timelapse.ru.svg) | Планируемая система покадровой съёмки | [METHODS](METHODS.ru.md) | [`original_research/charts/mermaid/root_4.png`](../original_research/charts/mermaid/root_4.png) |
 | [`redraw-pipeline.ru.svg`](assets/diagrams/redraw-pipeline.ru.svg) | Конвейер анализа: CV, LLM, сравнение, статистика | [METHODS](METHODS.ru.md) | [`original_research/charts/mermaid/root_5.png`](../original_research/charts/mermaid/root_5.png) |
 | [`redraw-protocol.ru.svg`](assets/diagrams/redraw-protocol.ru.svg) | Протокол эксперимента от забора крови до отчётов | [METHODS](METHODS.ru.md) | [`original_research/charts/mermaid/root_6.png`](../original_research/charts/mermaid/root_6.png) |
+| [`redraw-data-photos.ru.svg`](assets/diagrams/redraw-data-photos.ru.svg) | Фотографии по анонимным кодам доноров (круг, доли и числа) | [DATA](DATA.ru.md) | [`original_research/charts/mermaid/data_1.png`](../original_research/charts/mermaid/data_1.png) |
+| [`redraw-data-metrics.ru.svg`](assets/diagrams/redraw-data-metrics.ru.svg) | Три колонки условий с приведёнными метриками прежнего README (только заявлено) | [RESULTS](RESULTS.ru.md) | [`original_research/charts/mermaid/data_2.png`](../original_research/charts/mermaid/data_2.png) |
+| [`redraw-data-flow.ru.svg`](assets/diagrams/redraw-data-flow.ru.svg) | Образцы, три условия, приведённые число сгустков и площадь (только заявлено) | [RESULTS](RESULTS.ru.md) | [`original_research/charts/mermaid/data_3.png`](../original_research/charts/mermaid/data_3.png) |
+| [`redraw-data-dates.ru.svg`](assets/diagrams/redraw-data-dates.ru.svg) | Даты сбора с числом фотографий по кодам доноров | [DATA](DATA.ru.md) | [`original_research/charts/mermaid/data_4.png`](../original_research/charts/mermaid/data_4.png) |
+| [`redraw-osf.ru.svg`](assets/diagrams/redraw-osf.ru.svg) | Дерево регистрации OSF: гипотеза, выборка, анализ, переменные | [PUBLICATIONS](PUBLICATIONS.ru.md) | [`original_research/charts/mermaid/osf_1.png`](../original_research/charts/mermaid/osf_1.png) |
+| [`redraw-program.ru.svg`](assets/diagrams/redraw-program.ru.svg) | Дерево программы: четыре исследования и их части (зеркало, задача 2) | [ECOSYSTEM](ECOSYSTEM.ru.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_1.png) |
+| [`redraw-team.ru.svg`](assets/diagrams/redraw-team.ru.svg) | Участники команды и проекты (зеркало, задача 2) | [ECOSYSTEM](ECOSYSTEM.ru.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_2.png) |
+| [`redraw-repo.ru.svg`](assets/diagrams/redraw-repo.ru.svg) | Структура данных, анализа и команды (зеркало, задача 2) | [ECOSYSTEM](ECOSYSTEM.ru.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2retry_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2retry_1.png) |
+| [`redraw-roadmap.ru.svg`](assets/diagrams/redraw-roadmap.ru.svg) | Дорожная карта программы, от января до будущих 30 доноров (зеркало, задача 2) | [ECOSYSTEM](ECOSYSTEM.ru.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_4.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_4.png) |
+| [`redraw-donor-flow.ru.svg`](assets/diagrams/redraw-donor-flow.ru.svg) | Протокол по плазме крови в одиннадцать шагов (зеркало, задача 3) | [METHODS](METHODS.ru.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_3_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_3_1.png) |
+| [`redraw-biochem.ru.svg`](assets/diagrams/redraw-biochem.ru.svg) | Схема интеграции биохимии (зеркало, задача 5) | [METHODS](METHODS.ru.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_5_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_5_1.png) |
+| [`redraw-issue6-imaging.ru.svg`](assets/diagrams/redraw-issue6-imaging.ru.svg) | Схема покадровой съёмки, вариант задачи 6 (зеркало, задача 6) | [METHODS](METHODS.ru.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_6_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_6_1.png) |
+| [`redraw-gantt.ru.svg`](assets/diagrams/redraw-gantt.ru.svg) | План публикации, диаграмма Ганта (зеркало, задача 8) | [PUBLICATIONS](PUBLICATIONS.ru.md) | [`ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_8_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_8_1.png) |
 
 ## Диаграммы, показанные на страницах
 
@@ -28,16 +41,6 @@
 | [`original_research/charts/photos_by_patient.png`](../original_research/charts/photos_by_patient.png) | Круговая диаграмма 101 фотографии по анонимным кодам доноров (Пациент 01-07, только доли) | [RESULTS](RESULTS.ru.md) |
 | [`original_research/charts/comparative_results.png`](../original_research/charts/comparative_results.png) | Контроль против каналов 19 и 21: сводная диаграмма прежнего README | [RESULTS](RESULTS.ru.md) |
 | [`original_research/charts/channel_effects.png`](../original_research/charts/channel_effects.png) | Эффекты каналов: сводная диаграмма прежнего README | [RESULTS](RESULTS.ru.md) |
-
-## Схемы прежнего README, оставленные файлами
-
-| Рисунок | Что показывает | Папка |
-|---|---|---|
-| [`original_research/charts/mermaid/data_1.png`](../original_research/charts/mermaid/data_1.png) | Круговая диаграмма фотографий по кодам доноров (те же данные, что в photos_by_patient.png) | `original_research/charts/mermaid` |
-| [`original_research/charts/mermaid/data_2.png`](../original_research/charts/mermaid/data_2.png) | Три колонки, контроль, канал 19, канал 21, со значениями прежнего README: число сгустков, площадь, текстура, край, LLM (утверждения, см. Свидетельства) | `original_research/charts/mermaid` |
-| [`original_research/charts/mermaid/data_3.png`](../original_research/charts/mermaid/data_3.png) | Образцы плазмы, три условия, число сгустков и площадь из прежнего README (утверждения, см. Свидетельства) | `original_research/charts/mermaid` |
-| [`original_research/charts/mermaid/data_4.png`](../original_research/charts/mermaid/data_4.png) | Даты сбора с числом фотографий по кодам доноров (P01 13, P02 25, P03 16, P04 4, P05 10, P06 3, P07 30) | `original_research/charts/mermaid` |
-| [`original_research/charts/mermaid/osf_1.png`](../original_research/charts/mermaid/osf_1.png) | Дерево предварительной регистрации OSF: гипотеза, план выборки, план анализа, переменные | `original_research/charts/mermaid` |
 
 ## Диаграммы отчётов
 
@@ -67,12 +70,50 @@
 | [`original_research/reports/2026-03-14_cv-ml-analysis/charts/chart_per_patient.png`](../original_research/reports/2026-03-14_cv-ml-analysis/charts/chart_per_patient.png) | Зонд DINOv2: число выборов канала 19 по кодам доноров (leave-patient-out) | [`2026-03-14_cv-ml-analysis`](../original_research/reports/2026-03-14_cv-ml-analysis/report_ru.md) |
 | [`original_research/reports/2026-03-14_cv-ml-analysis/charts/chart_multichain.png`](../original_research/reports/2026-03-14_cv-ml-analysis/charts/chart_multichain.png) | Многоцепочечный конвейер: обрезка плазмы ухудшает сигнал | [`2026-03-14_cv-ml-analysis`](../original_research/reports/2026-03-14_cv-ml-analysis/report_ru.md) |
 
-## Папка-зеркало и папки доноров
+## Папка-зеркало, файл за файлом
+
+32 PNG в `ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid` сверены по содержанию с корневыми схемами. 5 это побайтные копии, 5 показывают ту же схему, что корневая (другой рендер или обрезка), 8 это отдельные схемы, они перерисованы выше, 7 это круговые диаграммы фотографий по донорам (диаграммы данных, только перечислены) и 7 это хронологии сессий по донорам с поминутными временами, они не воспроизводятся (правило «только агрегаты», см. [Этику](ETHICS.ru.md)).
+
+| Файл зеркала | Состояние | Где показан |
+|---|---|---|
+| [`advreadme_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_1.png) | Побайтная копия `root_1.png` | [redraw-overview.ru.svg](assets/diagrams/redraw-overview.ru.svg) on [STUDY](STUDY.ru.md) |
+| [`advreadme_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_2.png) | Побайтная копия `root_2.png` | [redraw-patent.ru.svg](assets/diagrams/redraw-patent.ru.svg) on [PUBLICATIONS](PUBLICATIONS.ru.md) |
+| [`advreadme_4.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_4.png) | Побайтная копия `root_4.png` | [redraw-timelapse.ru.svg](assets/diagrams/redraw-timelapse.ru.svg) on [METHODS](METHODS.ru.md) |
+| [`advreadme_6.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_6.png) | Побайтная копия `root_6.png` | [redraw-protocol.ru.svg](assets/diagrams/redraw-protocol.ru.svg) on [METHODS](METHODS.ru.md) |
+| [`issue_1_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_1_1.png) | Побайтная копия `root_6.png` | [redraw-protocol.ru.svg](assets/diagrams/redraw-protocol.ru.svg) on [METHODS](METHODS.ru.md) |
+| [`advreadme_3.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_3.png) | Та же схема, что `root_3.png`, другой рендер | [redraw-dates.ru.svg](assets/diagrams/redraw-dates.ru.svg) on [RESULTS](RESULTS.ru.md) |
+| [`advreadme_5.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advreadme_5.png) | Та же схема, что `root_5.png`, другой рендер | [redraw-pipeline.ru.svg](assets/diagrams/redraw-pipeline.ru.svg) on [METHODS](METHODS.ru.md) |
+| [`issue_1_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_1_2.png) | Та же схема, что `root_5.png`, другой рендер | [redraw-pipeline.ru.svg](assets/diagrams/redraw-pipeline.ru.svg) on [METHODS](METHODS.ru.md) |
+| [`advdata_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdata_2.png) | Та же схема, что `data_4.png`, другой рендер | [redraw-data-dates.ru.svg](assets/diagrams/redraw-data-dates.ru.svg) on [DATA](DATA.ru.md) |
+| [`advdataretry_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advdataretry_1.png) | Та же схема, что `data_1.png`, другой рендер | [redraw-data-photos.ru.svg](assets/diagrams/redraw-data-photos.ru.svg) on [DATA](DATA.ru.md) |
+| [`issue_2_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_1.png) | Отдельная схема, перерисована | [redraw-program.ru.svg](assets/diagrams/redraw-program.ru.svg) on [ECOSYSTEM](ECOSYSTEM.ru.md) |
+| [`issue_2_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_2.png) | Отдельная схема, перерисована | [redraw-team.ru.svg](assets/diagrams/redraw-team.ru.svg) on [ECOSYSTEM](ECOSYSTEM.ru.md) |
+| [`issue_2retry_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2retry_1.png) | Отдельная схема, перерисована | [redraw-repo.ru.svg](assets/diagrams/redraw-repo.ru.svg) on [ECOSYSTEM](ECOSYSTEM.ru.md) |
+| [`issue_2_4.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_2_4.png) | Отдельная схема, перерисована | [redraw-roadmap.ru.svg](assets/diagrams/redraw-roadmap.ru.svg) on [ECOSYSTEM](ECOSYSTEM.ru.md) |
+| [`issue_3_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_3_1.png) | Отдельная схема, перерисована | [redraw-donor-flow.ru.svg](assets/diagrams/redraw-donor-flow.ru.svg) on [METHODS](METHODS.ru.md) |
+| [`issue_5_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_5_1.png) | Отдельная схема, перерисована | [redraw-biochem.ru.svg](assets/diagrams/redraw-biochem.ru.svg) on [METHODS](METHODS.ru.md) |
+| [`issue_6_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_6_1.png) | Отдельная схема, перерисована | [redraw-issue6-imaging.ru.svg](assets/diagrams/redraw-issue6-imaging.ru.svg) on [METHODS](METHODS.ru.md) |
+| [`issue_8_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/issue_8_1.png) | Отдельная схема, перерисована | [redraw-gantt.ru.svg](assets/diagrams/redraw-gantt.ru.svg) on [PUBLICATIONS](PUBLICATIONS.ru.md) |
+| [`advp01_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp01_1.png) | Круговая диаграмма долей фото по донору (диаграмма данных, анонимный код) | только перечислен |
+| [`advp02_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp02_1.png) | Круговая диаграмма долей фото по донору (диаграмма данных, анонимный код) | только перечислен |
+| [`advp03_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp03_1.png) | Круговая диаграмма долей фото по донору (диаграмма данных, анонимный код) | только перечислен |
+| [`advp04retry_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp04retry_1.png) | Круговая диаграмма долей фото по донору (диаграмма данных, анонимный код) | только перечислен |
+| [`advp05_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp05_1.png) | Круговая диаграмма долей фото по донору (диаграмма данных, анонимный код) | только перечислен |
+| [`advp06_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp06_1.png) | Круговая диаграмма долей фото по донору (диаграмма данных, анонимный код) | только перечислен |
+| [`advp07_1.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp07_1.png) | Круговая диаграмма долей фото по донору (диаграмма данных, анонимный код) | только перечислен |
+| [`advp01_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp01_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp02_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp02_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp03_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp03_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp04_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp04_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp05_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp05_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp06_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp06_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
+| [`advp07_2.png`](../ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid/advp07_2.png) | Хронология сессии донора с поминутными временами | не воспроизводится: времена по донору (правило «только агрегаты») |
+
+## Папки доноров
 
 | Рисунки | Что это | Папка |
 |---|---|---|
-| 32 PNG | Mermaid-рендеры схем из README, задач и протоколов папки-зеркала (`advreadme_*`, `advdata_*`, `advp01_*`..`advp07_*`, `issue_*`); зеркало повторяет тот же материал, что и корень | `ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid` |
-| 16 PNG | По круговой диаграмме распределения фотографий на папку донора, по условиям (`p01_*`..`p07_*`); перечислены как данные папок доноров, не воспроизводятся | `original_research/data/patient-0N/photos/mermaid` |
+| 16 PNG | По круговой диаграмме распределения фотографий на папку донора, по условиям (`p01_*`..`p07_*`); данные папок доноров, перечислены, не воспроизводятся | `original_research/data/patient-0N/photos/mermaid` |
 | JPG, HEIC | Сами сырые и конвертированные фотографии | `original_research/data/patient-0N/photos/{jpg,original}` (сырые данные, см. [Данные](DATA.ru.md)) |
 
 ## Создано этой реструктуризацией
