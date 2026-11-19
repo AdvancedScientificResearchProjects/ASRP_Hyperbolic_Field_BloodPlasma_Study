@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 770" width="1200" height="770" role="img" aria-labelledby="t d">
+<title id="t">Метрики по условиям, как приведены</title>
+<desc id="d">Три колонки. Контроль, базовый: сгустков 8.92, площадь 0.90%, текстура 4.12, край 0.0016, LLM 65%. Канал 19, ускорение времени: кол-во 5.64 (-37%), площадь 0.52% (-42%), текстура 5.26 (+28%), край 0.0012 (-25%), LLM 78% (+13%), один случай лизиса. Канал 21, замедление времени: кол-во 8.69 (-3%), площадь 0.58% (-35%), текстура 4.16 (+1%), край 0.0034 (+113%), LLM 41% (-24%). Значения как в прежнем README; только заявлено.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='770' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Метрики по условиям, как приведены</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Прежний README, схема данных 2</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ПЕРЕРИСОВАННАЯ СХЕМА</text>
+<rect x='24' y='96' width='376' height='540' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#4ecdc4'/>
+<text x='212' y='128' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='18' fill='#e6ecff' text-anchor='middle' font-weight='800'>Контроль</text>
+<text x='212' y='150' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='middle' font-weight='800'>БАЗОВЫЙ</text>
+<rect x='52' y='170' width='320' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='212.0' y='204.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Кол-во сгустков: 8.92</text>
+<rect x='52' y='238' width='320' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='212.0' y='272.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Площадь: 0.90%</text>
+<rect x='52' y='306' width='320' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='212.0' y='340.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Текстура: 4.12</text>
+<rect x='52' y='374' width='320' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='212.0' y='408.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Край: 0.0016</text>
+<rect x='52' y='442' width='320' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='212.0' y='476.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLM: 65%</text>
+<rect x='416' y='96' width='376' height='540' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#a78bfa'/>
+<text x='604' y='128' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='18' fill='#e6ecff' text-anchor='middle' font-weight='800'>Канал 19</text>
+<text x='604' y='150' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>УСКОРЕНИЕ ВРЕМЕНИ</text>
+<rect x='444' y='170' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='204.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Кол-во: 5.64 −37%</text>
+<rect x='444' y='238' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='272.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Площадь: 0.52% −42%</text>
+<rect x='444' y='306' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='340.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Текстура: 5.26 +28%</text>
+<rect x='444' y='374' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='408.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Край: 0.0012 −25%</text>
+<rect x='444' y='442' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='476.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLM: 78% +13%</text>
+<rect x='444' y='510' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='544.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Случай лизиса</text>
+<rect x='808' y='96' width='376' height='540' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#6f9bff'/>
+<text x='996' y='128' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='18' fill='#e6ecff' text-anchor='middle' font-weight='800'>Канал 21</text>
+<text x='996' y='150' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>ЗАМЕДЛЕНИЕ ВРЕМЕНИ</text>
+<rect x='836' y='170' width='320' height='52' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='996.0' y='204.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Кол-во: 8.69 −3%</text>
+<rect x='836' y='238' width='320' height='52' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='996.0' y='272.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Площадь: 0.58% −35%</text>
+<rect x='836' y='306' width='320' height='52' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='996.0' y='340.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Текстура: 4.16 +1%</text>
+<rect x='836' y='374' width='320' height='52' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='996.0' y='408.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Край: 0.0034 +113%</text>
+<rect x='836' y='442' width='320' height='52' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='996.0' y='476.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLM: 41% −24%</text>
+<text x='24' y='710' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Все значения приведены из прежнего README и только заявлены;</text>
+<text x='24' y='730' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>детектор сгустков за ними отвергнут собственным отчётом репозитория</text>
+<text x='24' y='750' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>(guide/EVIDENCE.ru.md).</text>
+</svg>

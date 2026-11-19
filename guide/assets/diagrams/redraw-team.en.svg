@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-labelledby="t d">
+<title id="t">Team and projects</title>
+<desc id="d">Two columns. Team: Denis Banchenko CEO / physics; Valeria Ovseannicova CBE / biomedical; Mykhailo Kapustin CTO / IT and AI; Kyryl Zmiienko chief AI engineer; Alexandr Ovsyannikov head hardware engineer. Projects: Blood Plasma (Valeria and Denis), DAAT Crystal (Denis), Agricultural (Mykhailo), Emitter Programs (Mykhailo and Alexandr). Edges: Denis to Blood Plasma and DAAT Crystal; Valeria to Blood Plasma; Mykhailo to Agricultural and Emitter Programs; Kyryl to Blood Plasma; Alexandr to Emitter Programs.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='560' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Team and projects</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Programme issue 2 (mirror folder)</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>REDRAWN FIGURE</text>
+<rect x='24' y='96' width='400' height='420' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#2a3b78'/>
+<text x='40' y='124' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='800' letter-spacing='0.6'>TEAM</text>
+<rect x='776' y='96' width='400' height='420' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#2a3b78'/>
+<text x='792' y='124' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='800' letter-spacing='0.6'>PROJECTS</text>
+<rect x='44' y='140' width='360' height='68' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='224.0' y='172.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Denis Banchenko</text>
+<text x='224.0' y='192.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>CEO / Physics</text>
+<rect x='44' y='214' width='360' height='68' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='224.0' y='246.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Valeria Ovseannicova</text>
+<text x='224.0' y='266.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>CBE / Biomedical</text>
+<rect x='44' y='288' width='360' height='68' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='224.0' y='320.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Mykhailo Kapustin</text>
+<text x='224.0' y='340.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>CTO / IT &amp; AI</text>
+<rect x='44' y='362' width='360' height='68' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='224.0' y='394.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Kyryl Zmiienko</text>
+<text x='224.0' y='414.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Chief AI Engineer</text>
+<rect x='44' y='436' width='360' height='68' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='224.0' y='468.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Alexandr Ovsyannikov</text>
+<text x='224.0' y='488.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Head Hardware Engineer</text>
+<rect x='796' y='150' width='360' height='68' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='976.0' y='182.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Blood Plasma</text>
+<text x='976.0' y='202.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Valeria + Denis</text>
+<rect x='796' y='240' width='360' height='68' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='976.0' y='272.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>DAAT Crystal</text>
+<text x='976.0' y='292.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Denis</text>
+<rect x='796' y='330' width='360' height='68' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='976.0' y='362.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Agricultural</text>
+<text x='976.0' y='382.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Mykhailo</text>
+<rect x='796' y='420' width='360' height='68' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='976.0' y='452.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Emitter Programs</text>
+<text x='976.0' y='472.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>Mykhailo + Alexandr</text>
+<defs><marker id='mffa657' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#ffa657'/></marker></defs>
+<path d='M404.0,171.0 L793.0,183.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<defs><marker id='ma78bfa' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#a78bfa'/></marker></defs>
+<path d='M404.0,171.0 L793.0,273.0' fill='none' stroke='#a78bfa' stroke-width='2' marker-end='url(#ma78bfa)'></path>
+<path d='M404.0,245.0 L793.0,183.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<defs><marker id='m34d399' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#34d399'/></marker></defs>
+<path d='M404.0,319.0 L793.0,363.0' fill='none' stroke='#34d399' stroke-width='2' marker-end='url(#m34d399)'></path>
+<defs><marker id='m6f9bff' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#6f9bff'/></marker></defs>
+<path d='M404.0,319.0 L793.0,453.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#m6f9bff)'></path>
+<path d='M404.0,393.0 L793.0,183.0' fill='none' stroke='#ffa657' stroke-width='2' marker-end='url(#mffa657)'></path>
+<path d='M404.0,467.0 L793.0,453.0' fill='none' stroke='#6f9bff' stroke-width='2' marker-end='url(#m6f9bff)'></path>
+</svg>

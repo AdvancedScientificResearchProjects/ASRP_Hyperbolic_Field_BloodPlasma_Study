@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 770" width="1200" height="770" role="img" aria-labelledby="t d">
+<title id="t">Metrics by condition, as quoted</title>
+<desc id="d">Three columns. Control, baseline: clot count 8.92, area 0.90%, texture 4.12, edge 0.0016, LLM 65%. Channel 19, time acceleration: count 5.64 (-37%), area 0.52% (-42%), texture 5.26 (+28%), edge 0.0012 (-25%), LLM 78% (+13%), one lysis case. Channel 21, time deceleration: count 8.69 (-3%), area 0.58% (-35%), texture 4.16 (+1%), edge 0.0034 (+113%), LLM 41% (-24%). Values as quoted by the previous README; claimed only.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='770' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Metrics by condition, as quoted</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Previous README, data diagram 2</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>REDRAWN FIGURE</text>
+<rect x='24' y='96' width='376' height='540' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#4ecdc4'/>
+<text x='212' y='128' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='18' fill='#e6ecff' text-anchor='middle' font-weight='800'>Control</text>
+<text x='212' y='150' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='middle' font-weight='800'>BASELINE</text>
+<rect x='52' y='170' width='320' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='212.0' y='204.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Clot count: 8.92</text>
+<rect x='52' y='238' width='320' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='212.0' y='272.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Area: 0.90%</text>
+<rect x='52' y='306' width='320' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='212.0' y='340.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Texture: 4.12</text>
+<rect x='52' y='374' width='320' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='212.0' y='408.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Edge: 0.0016</text>
+<rect x='52' y='442' width='320' height='52' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='212.0' y='476.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLM: 65%</text>
+<rect x='416' y='96' width='376' height='540' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#a78bfa'/>
+<text x='604' y='128' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='18' fill='#e6ecff' text-anchor='middle' font-weight='800'>Channel 19</text>
+<text x='604' y='150' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='middle' font-weight='800'>TIME ACCELERATION</text>
+<rect x='444' y='170' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='204.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Count: 5.64 −37%</text>
+<rect x='444' y='238' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='272.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Area: 0.52% −42%</text>
+<rect x='444' y='306' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='340.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Texture: 5.26 +28%</text>
+<rect x='444' y='374' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='408.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Edge: 0.0012 −25%</text>
+<rect x='444' y='442' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='476.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLM: 78% +13%</text>
+<rect x='444' y='510' width='320' height='52' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='604.0' y='544.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Lysis case</text>
+<rect x='808' y='96' width='376' height='540' rx='14' fill='#0b1430' fill-opacity='1.0' stroke='#6f9bff'/>
+<text x='996' y='128' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='18' fill='#e6ecff' text-anchor='middle' font-weight='800'>Channel 21</text>
+<text x='996' y='150' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#6f9bff' text-anchor='middle' font-weight='800'>TIME DECELERATION</text>
+<rect x='836' y='170' width='320' height='52' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='996.0' y='204.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Count: 8.69 −3%</text>
+<rect x='836' y='238' width='320' height='52' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='996.0' y='272.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Area: 0.58% −35%</text>
+<rect x='836' y='306' width='320' height='52' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='996.0' y='340.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Texture: 4.16 +1%</text>
+<rect x='836' y='374' width='320' height='52' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='996.0' y='408.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Edge: 0.0034 +113%</text>
+<rect x='836' y='442' width='320' height='52' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='996.0' y='476.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLM: 41% −24%</text>
+<text x='24' y='710' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>All values are quoted from the previous README and are claimed only;</text>
+<text x='24' y='730' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the clot detector behind them was rejected by the repository's own</text>
+<text x='24' y='750' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>report (guide/EVIDENCE.md).</text>
+</svg>

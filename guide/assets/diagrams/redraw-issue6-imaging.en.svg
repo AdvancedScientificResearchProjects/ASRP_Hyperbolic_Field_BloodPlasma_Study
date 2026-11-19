@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380" role="img" aria-labelledby="t d">
+<title id="t">Time-lapse imaging system</title>
+<desc id="d">Flow chart left to right. Plasma samples, then time-lapse camera, then image capture, then preprocessing, which branches to LLM analysis and CV analysis, both ending in a comparison. This describes a planned system; the dataset is still photographs.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='380' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Time-lapse imaging system</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Programme issue 6 (mirror folder)</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>REDRAWN FIGURE</text>
+<rect x='24' y='170' width='170' height='96' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='109.0' y='226.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Plasma samples</text>
+<rect x='229' y='170' width='170' height='96' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='314.0' y='215.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Time-lapse</text>
+<text x='314.0' y='237.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>camera</text>
+<rect x='434' y='170' width='170' height='96' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='519.0' y='226.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Image capture</text>
+<rect x='639' y='170' width='170' height='96' rx='12' fill='#0b1430' stroke='#34d399' stroke-width='1.6'/>
+<text x='724.0' y='226.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Preprocessing</text>
+<defs><marker id='m8ea0d6' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#8ea0d6'/></marker></defs>
+<path d='M194.0,218.0 L226.0,218.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<path d='M399.0,218.0 L431.0,218.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<path d='M604.0,218.0 L636.0,218.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='850' y='110' width='170' height='70' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='935.0' y='153.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>LLM analysis</text>
+<rect x='850' y='250' width='170' height='70' rx='12' fill='#0b1430' stroke='#ffa657' stroke-width='1.6'/>
+<text x='935.0' y='293.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>CV analysis</text>
+<rect x='1050' y='170' width='126' height='96' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='1113.0' y='226.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='middle' font-weight='700'>Comparison</text>
+<defs><marker id='m34d399' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#34d399'/></marker></defs>
+<path d='M809.0,200.0 L830.0,200.0 L830.0,145.0 L847.0,145.0' fill='none' stroke='#34d399' stroke-width='2' marker-end='url(#m34d399)'></path>
+<path d='M809.0,236.0 L830.0,236.0 L830.0,285.0 L847.0,285.0' fill='none' stroke='#34d399' stroke-width='2' marker-end='url(#m34d399)'></path>
+<path d='M1020.0,145.0 L1035.0,145.0 L1035.0,200.0 L1047.0,200.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<path d='M1020.0,285.0 L1035.0,285.0 L1035.0,235.0 L1047.0,235.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<text x='24' y='120' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ PLANNED SYSTEM</text>
+<text x='24' y='344' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Describes a planned system; the dataset in the repository is still</text>
+<text x='24' y='364' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>smartphone photographs (guide/METHODS.md).</text>
+</svg>

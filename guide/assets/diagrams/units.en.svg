@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360" role="img" aria-labelledby="t d">
+<title id="t">What counts as one observation</title>
+<desc id="d">Four boxes with arrows. 7 donors. 101 photographs, which are not independent, since one donor yields many. 19 blinded triplets (one photo per condition) drawn from 5 donors. Provider verdicts: Gemini 19, Perplexity 33, GPT-5 55 and Groq 57 over repeated runs of the same triplets, so they are repeats, not new data.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='360' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>What counts as one observation</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Counts shrink at every step; the independent unit is the donor</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>UNITS OF ANALYSIS</text>
+<rect x='24' y='110' width='270' height='150' rx='12' fill='#0b1430' stroke='#ffcf5c' stroke-width='1.6'/>
+<text x='38' y='141.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>7 donors</text>
+<text x='38' y='161.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>The independent units. Fewer than</text>
+<text x='38' y='181.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>ten.</text>
+<text x='38' y='201.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Sample size of the whole pilot</text>
+<rect x='334' y='110' width='270' height='150' rx='12' fill='#0b1430' stroke='#6f9bff' stroke-width='1.6'/>
+<text x='348' y='141.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>101 photographs</text>
+<text x='348' y='161.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Many per donor; not independent</text>
+<text x='348' y='181.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>40 labelled single-condition photos,</text>
+<text x='348' y='201.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>the rest multi-tube or unlabelled</text>
+<defs><marker id='m8ea0d6' viewBox='0 0 10 10' refX='9' refY='5' markerWidth='7' markerHeight='7' orient='auto'><path d='M0,0 L10,5 L0,10z' fill='#8ea0d6'/></marker></defs>
+<path d='M297.0,185.0 L331.0,185.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='644' y='110' width='270' height='150' rx='12' fill='#0b1430' stroke='#4ecdc4' stroke-width='1.6'/>
+<text x='658' y='141.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>19 triplets</text>
+<text x='658' y='161.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>One photo per condition, from 5</text>
+<text x='658' y='181.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>donors</text>
+<text x='658' y='201.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>The input of every blinded</text>
+<text x='658' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>comparison</text>
+<path d='M607.0,185.0 L641.0,185.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<rect x='954' y='110' width='270' height='150' rx='12' fill='#0b1430' stroke='#a78bfa' stroke-width='1.6'/>
+<text x='968' y='141.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>10 runs</text>
+<text x='968' y='161.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Repeats of the same triplets by 4</text>
+<text x='968' y='181.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>providers</text>
+<text x='968' y='201.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Gemini 19 verdicts, Groq 57, GPT-5</text>
+<text x='968' y='221.0' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>55, Perplexity 33</text>
+<path d='M917.0,185.0 L951.0,185.0' fill='none' stroke='#8ea0d6' stroke-width='2' marker-end='url(#m8ea0d6)'></path>
+<text x='24' y='300' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>A p-value on 19 triplets from 5 donors cannot speak for donors in</text>
+<text x='24' y='320' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>general; repeated runs do not add donors.</text>
+</svg>

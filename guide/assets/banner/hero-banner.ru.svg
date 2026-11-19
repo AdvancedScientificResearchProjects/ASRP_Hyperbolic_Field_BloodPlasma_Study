@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-labelledby="t d">
+<title id="t">Blood Plasma Study</title>
+<desc id="d">Сгенерированная иллюстрация, не скриншот. Слева три пробирки: контроль, канал 19 и канал 21; заголовок; три числа, посчитанные по репозиторию: 7 доноров и 101 фотографий, 19 триплетов для слепой оценки, 10 слепых прогонов провайдеров. Подвал: данных о времени свёртывания и биохимии в репозитории нет.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='330' rx='18' fill='url(#bg)'/>
+
+<rect x='90' y='60' width='56' height='170' rx='24' fill='#0b1430' fill-opacity='0.35' stroke='#8ea0d6' stroke-width='2.4'/>
+<rect x='94' y='128' width='48' height='98' rx='18' fill='#8ea0d6' fill-opacity='0.45'/>
+<rect x='86' y='52' width='64' height='12' rx='5' fill='#8ea0d6'/>
+<text x='118' y='262' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>контроль</text>
+<rect x='240' y='60' width='56' height='170' rx='24' fill='#0b1430' fill-opacity='0.35' stroke='#4ecdc4' stroke-width='2.4'/>
+<rect x='244' y='118' width='48' height='108' rx='18' fill='#4ecdc4' fill-opacity='0.45'/>
+<rect x='236' y='52' width='64' height='12' rx='5' fill='#4ecdc4'/>
+<text x='268' y='262' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>кан. 19</text>
+<rect x='390' y='60' width='56' height='170' rx='24' fill='#0b1430' fill-opacity='0.35' stroke='#a78bfa' stroke-width='2.4'/>
+<rect x='394' y='150' width='48' height='76' rx='18' fill='#a78bfa' fill-opacity='0.45'/>
+<rect x='386' y='52' width='64' height='12' rx='5' fill='#a78bfa'/>
+<text x='418' y='262' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#e6ecff' text-anchor='middle' font-weight='700'>кан. 21</text>
+<text x='520' y='66' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='start' font-weight='700' letter-spacing='2'>ГИПЕРБОЛИЧЕСКОЕ ПОЛЕ · ПОИСКОВЫЙ ПИЛОТ</text>
+<text x='1164' y='36' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='end' font-weight='700' letter-spacing='2'>ГЕНЕРИРУЕТ ГИПОТЕЗЫ</text>
+<text x='520' y='128' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='54' fill='#e6ecff' text-anchor='start' font-weight='800'>Blood Plasma Study</text>
+<text x='520' y='170' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='21' fill='#8ea0d6' text-anchor='start' font-weight='400'>Плазма на фото после двух настроек поля</text>
+<text x='520' y='198' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='21' fill='#8ea0d6' text-anchor='start' font-weight='400'>и без обработки; читают CV и ИИ</text>
+<rect x='520.0' y='246' width='190.1' height='38' rx='19' fill='#ffcf5c' fill-opacity='0.08' stroke='#ffcf5c'/>
+<text x='615.0' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>7 доноров · 101 фото</text>
+<rect x='722.1' y='246' width='205.7' height='38' rx='19' fill='#4ecdc4' fill-opacity='0.08' stroke='#4ecdc4'/>
+<text x='824.9' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>19 триплетов вслепую</text>
+<rect x='939.7' y='246' width='187.7' height='38' rx='19' fill='#34d399' fill-opacity='0.08' stroke='#34d399'/>
+<text x='1033.6' y='271' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#e6ecff' text-anchor='middle' font-weight='700'>10 слепых прогонов</text>
+<text x='24' y='316' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>данных о времени свёртывания и биохимии в репозитории нет</text>
+</svg>
