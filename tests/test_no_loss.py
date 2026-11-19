@@ -87,6 +87,36 @@ class NoLossTest(unittest.TestCase):
                     ln = ln.replace(a, "")
                 self.assertIsNone(re.search(r"[А-Яа-яЁё]{3,}", ln), "Cyrillic in English page %s: %s" % (f, ln[:100]))
 
+    def test_redraws_build_and_figures_are_reachable(self):
+        """The Mermaid PNG redraws build; no page shows a root_N.png as its image; every figure of the tagged tree
+        (except raw per-donor photos) is embedded or listed on guide/FIGURES.md."""
+        r = run("tools/build_redraws.py")
+        self.assertEqual(r.returncode, 0, r.stdout[-1500:] + r.stderr[-1500:])
+        r = run("tools/build_figures_page.py")
+        self.assertEqual(r.returncode, 0, r.stdout[-1500:] + r.stderr[-1500:])
+        pages = {f: read(os.path.join(ROOT, f)) for f in ("README.md", "README.ru.md")}
+        for n in sorted(os.listdir(os.path.join(ROOT, "guide"))):
+            if n.endswith(".md"):
+                pages["guide/" + n] = read(os.path.join(ROOT, "guide", n))
+        for f, t in pages.items():
+            self.assertNotRegex(t, r'<img [^>]*mermaid/root_\d\.png', f + " still shows an old Mermaid PNG")
+            self.assertNotRegex(t, r'!\[[^\]]*\]\([^)]*mermaid/root_\d\.png\)', f + " still shows an old Mermaid PNG")
+        listed = "\n".join(pages[f] for f in ("guide/FIGURES.md", "guide/FIGURES.ru.md"))
+        everything = "\n".join(pages.values())
+        tree = subprocess.run(["git", "ls-tree", "-r", "--name-only", "pre-showcase-2026-11"], cwd=ROOT,
+                              capture_output=True, text=True)
+        if tree.returncode != 0:
+            self.skipTest("tag pre-showcase-2026-11 not available")
+        mirror = "ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/charts/mermaid"
+        for f in tree.stdout.split("\n"):
+            if not f.lower().endswith((".png", ".jpg", ".jpeg", ".svg")):
+                continue
+            if "/data/patient-" in f or f.startswith(mirror + "/"):
+                continue  # raw per-donor photos and per-donor pies, mirror renders: one summary row each
+            self.assertIn(f, everything, "figure not reachable from any page: " + f)
+        self.assertIn(mirror, listed)
+        self.assertIn("original_research/data/patient-0N/photos/mermaid", listed)
+
 
 if __name__ == "__main__":
     unittest.main()
