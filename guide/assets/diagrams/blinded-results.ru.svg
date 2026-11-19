@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" width="1200" height="520" role="img" aria-labelledby="t d">
+<title id="t">Слепое сравнение: как часто выбирали канал 19</title>
+<desc id="d">Горизонтальные столбцы: доля слепых вердиктов, назвавших канал 19 самым свёрнутым образцом, и линия случайности 33.3 процента. Gemini 57.9 процента из 19 вердиктов, один прогон (выше случайности, один прогон). Perplexity 36.4 из 33, Groq 33.3 из 57, GPT-5 23.6 из 55 (на уровне случайности или ниже). Числа пересчитаны по сырым файлам результатов.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='520' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Слепое сравнение: как часто выбирали канал 19</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Вердикты с каналом 19 как самым свёрнутым; случайность 33.3%</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>СЛЕПЫЕ РЕЗУЛЬТАТЫ</text>
+<text x='24' y='158' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Gemini 2.5 flash-lite</text>
+<text x='24' y='180' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>19 вердиктов, прогонов: 1</text>
+<rect x='300' y='140' width='560' height='34' rx='6' fill='#0b1430' stroke='#2a3b78'/>
+<rect x='300' y='140' width='324.2' height='34' rx='6' fill='#ffcf5c' fill-opacity='0.85'/>
+<text x='634.24' y='163' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>57.9%</text>
+<text x='950' y='163' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffcf5c' text-anchor='start' font-weight='800'>◧ ВЫШЕ, ОДИН ПРОГОН</text>
+<text x='24' y='236' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Perplexity sonar-pro</text>
+<text x='24' y='258' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>33 вердиктов, прогонов: 3</text>
+<rect x='300' y='218' width='560' height='34' rx='6' fill='#0b1430' stroke='#2a3b78'/>
+<rect x='300' y='218' width='203.8' height='34' rx='6' fill='#ffa657' fill-opacity='0.85'/>
+<text x='513.84' y='241' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>36.4%</text>
+<text x='950' y='241' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='start' font-weight='800'>✕ ПРИМЕРНО СЛУЧАЙНО</text>
+<text x='24' y='314' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Groq Llama 4 Scout</text>
+<text x='24' y='336' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>57 вердиктов, прогонов: 3</text>
+<rect x='300' y='296' width='560' height='34' rx='6' fill='#0b1430' stroke='#2a3b78'/>
+<rect x='300' y='296' width='186.5' height='34' rx='6' fill='#ffa657' fill-opacity='0.85'/>
+<text x='496.48' y='319' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>33.3%</text>
+<text x='950' y='319' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='start' font-weight='800'>✕ ПРИМЕРНО СЛУЧАЙНО</text>
+<text x='24' y='392' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>GPT-5</text>
+<text x='24' y='414' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>55 вердиктов, прогонов: 3</text>
+<rect x='300' y='374' width='560' height='34' rx='6' fill='#0b1430' stroke='#2a3b78'/>
+<rect x='300' y='374' width='132.2' height='34' rx='6' fill='#ffa657' fill-opacity='0.85'/>
+<text x='442.15999999999997' y='397' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>23.6%</text>
+<text x='950' y='397' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#ffa657' text-anchor='start' font-weight='800'>✕ НИЖЕ СЛУЧАЙНОСТИ</text>
+<line x1='486.5' y1='126' x2='486.5' y2='438' stroke='#4ecdc4' stroke-width='2' stroke-dasharray='6 5'/>
+<text x='486.48' y='118' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#4ecdc4' text-anchor='middle' font-weight='700'>случайность 33.3%</text>
+<text x='300.0' y='458' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>0%</text>
+<text x='440.0' y='458' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>25%</text>
+<text x='580.0' y='458' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>50%</text>
+<text x='720.0' y='458' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>75%</text>
+<text x='860.0' y='458' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='middle' font-weight='400'>100%</text>
+<text x='24' y='424' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Буква B в этих прогонах всегда канал 19, поэтому тяга к букве B</text>
+<text x='24' y='444' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>выглядит как тяга к каналу 19.</text>
+<text x='24' y='464' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Источник:</text>
+<text x='24' y='484' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>original_research/results/fullres_comparative_blinded_*/results.json,</text>
+<text x='24' y='504' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>пересчитано tools/facts.py.</text>
+</svg>

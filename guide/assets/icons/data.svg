@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img">
+<title>data and photographs</title>
+<desc>Navigation icon: data and photographs.</desc>
+<rect x="2" y="2" width="60" height="60" rx="12" fill="#101826" stroke="#6f9bff" stroke-width="3"/>
+<g fill='none' stroke='#6f9bff' stroke-width='2.6' stroke-linecap='round' stroke-linejoin='round'><ellipse cx='32' cy='20' rx='15' ry='6'/><path d='M17 20v24c0 3 7 6 15 6s15-3 15-6V20M17 32c0 3 7 6 15 6s15-3 15-6'/></g>
+</svg>

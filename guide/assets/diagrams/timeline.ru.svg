@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 622" width="1200" height="622" role="img" aria-labelledby="t d">
+<title id="t">Датированные вехи в репозитории</title>
+<desc id="d">Семь датированных строк: предварительная регистрация OSF 2026-01-25; четыре отчёта 2026-02-25, 2026-02-26, 2026-03-12 и 2026-03-14; последнее обновление содержания README 2026-03-26; и только как план рецензируемая статья на апрель-май 2026, для которой в репозитории нет рукописи.</desc>
+<defs><linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop offset='0' stop-color='#070b18'/><stop offset='1' stop-color='#0d1530'/></linearGradient><filter id='glow' x='-50%' y='-50%' width='200%' height='200%'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter></defs>
+<rect width='1200' height='622' rx='18' fill='url(#bg)'/>
+
+<text x='24' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='26' fill='#e6ecff' text-anchor='start' font-weight='700'>Датированные вехи в репозитории</text>
+<text x='24' y='72' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#8ea0d6' text-anchor='start' font-weight='400'>Каждая дата прочитана из файла, который её содержит</text>
+<text x='1176' y='46' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='14' fill='#4ecdc4' text-anchor='end' font-weight='700' letter-spacing='2'>ХРОНОЛОГИЯ</text>
+<circle cx='60' cy='126' r='8' fill='#070b18' stroke='#34d399' stroke-width='2.4'/>
+<line x1='60' y1='136' x2='60' y2='182' stroke='#2a3b78' stroke-width='2'/>
+<text x='90' y='132' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-01-25</text>
+<text x='260' y='132' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='400'>Дата предварительной регистрации OSF; в тексте: до сбора данных</text>
+<text x='940' y='132' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='start' font-weight='800'>■ СДЕЛАНО</text>
+<circle cx='60' cy='192' r='8' fill='#070b18' stroke='#34d399' stroke-width='2.4'/>
+<line x1='60' y1='202' x2='60' y2='248' stroke='#2a3b78' stroke-width='2'/>
+<text x='90' y='198' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-02-25</text>
+<text x='260' y='198' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='400'>Отчёт 1: CV и ML анализ (ASRP Science-LLM)</text>
+<text x='940' y='198' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='start' font-weight='800'>■ СДЕЛАНО</text>
+<circle cx='60' cy='258' r='8' fill='#070b18' stroke='#34d399' stroke-width='2.4'/>
+<line x1='60' y1='268' x2='60' y2='314' stroke='#2a3b78' stroke-width='2'/>
+<text x='90' y='264' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-02-26</text>
+<text x='260' y='264' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='400'>Отчёт 2: проход LLM без слепоты; CV-детектор отвергнут</text>
+<text x='940' y='264' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='start' font-weight='800'>■ СДЕЛАНО</text>
+<circle cx='60' cy='324' r='8' fill='#070b18' stroke='#34d399' stroke-width='2.4'/>
+<line x1='60' y1='334' x2='60' y2='380' stroke='#2a3b78' stroke-width='2'/>
+<text x='90' y='330' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-03-12</text>
+<text x='260' y='330' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='400'>Отчёт 3: слепое сравнение провайдеров (v5.1)</text>
+<text x='940' y='330' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='start' font-weight='800'>■ СДЕЛАНО</text>
+<circle cx='60' cy='390' r='8' fill='#070b18' stroke='#34d399' stroke-width='2.4'/>
+<line x1='60' y1='400' x2='60' y2='446' stroke='#2a3b78' stroke-width='2'/>
+<text x='90' y='396' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-03-14</text>
+<text x='260' y='396' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='400'>Отчёт 4: CV и ML модели, leave-one-set-out</text>
+<text x='940' y='396' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='start' font-weight='800'>■ СДЕЛАНО</text>
+<circle cx='60' cy='456' r='8' fill='#070b18' stroke='#34d399' stroke-width='2.4'/>
+<line x1='60' y1='466' x2='60' y2='512' stroke='#2a3b78' stroke-width='2' stroke-dasharray='5 6'/>
+<text x='90' y='462' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>2026-03-26</text>
+<text x='260' y='462' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='400'>Последнее обновление содержания по README</text>
+<text x='940' y='462' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#34d399' text-anchor='start' font-weight='800'>■ СДЕЛАНО</text>
+<circle cx='60' cy='522' r='8' fill='#070b18' stroke='#a78bfa' stroke-width='2.4'/>
+<text x='90' y='528' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='700'>Apr-May 2026</text>
+<text x='260' y='528' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='15' fill='#e6ecff' text-anchor='start' font-weight='400'>Планировалась статья (задача 8); рукописи здесь нет</text>
+<text x='940' y='528' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#a78bfa' text-anchor='start' font-weight='800'>◇ В ПЛАНАХ</text>
+<text x='24' y='588' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>Последний датированный файл: 26 марта 2026; более поздние коммиты</text>
+<text x='24' y='608' font-family="'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size='13' fill='#8ea0d6' text-anchor='start' font-weight='400'>это шаблон и приватность, а не содержание.</text>
+</svg>
