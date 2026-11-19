@@ -32,7 +32,7 @@
 
 </div>
 
-> This is a private research repository. The results are preliminary and hypothesis-generating. A patent application is an IP claim, not validation of this study.
+> This is a public research repository. The results are preliminary and hypothesis-generating. A patent application is an IP claim, not validation of this study.
 
 <!-- legacy-anchors --><a name="hyperbolic-field-blood-plasma-study--исследование-плазмы-крови-после-воздействия-гиперболических-полей"></a><a name="research-at-a-glance--исследование-в-цифрах"></a><a name="quick-navigation--быстрая-навигация"></a><a name="quick-links--быстрые-ссылки"></a>
 ## At a glance
@@ -53,6 +53,7 @@
 | <img src="guide/assets/icons/data.svg" width="44" alt="data icon"> | **[Data and photographs](guide/DATA.md)** | <!--n:photos-->101<!--/n--> photographs, imaging, categories, data volume |
 | <img src="guide/assets/icons/methods.svg" width="44" alt="methods icon"> | **[Analysis methods](guide/METHODS.md)** | CV, zero-shot and LLM readers, blinding, the dated reports |
 | <img src="guide/assets/icons/results.svg" width="44" alt="results icon"> | **[Results](guide/RESULTS.md)** | the earlier tables, then the blinded counts recomputed |
+| <img src="guide/assets/icons/figures.svg" width="44" alt="figures icon"> | **[Figures gallery](guide/FIGURES.md)** | every chart and diagram of the repository, with its source folder |
 | <img src="guide/assets/icons/evidence.svg" width="44" alt="evidence icon"> | **[Evidence](guide/EVIDENCE.md)** | claimed versus shown, with a source path for every row |
 | <img src="guide/assets/icons/publications.svg" width="44" alt="publications icon"> | **[Patent, preregistration, publication](guide/PUBLICATIONS.md)** | the KZ application, the OSF registration, the paper plan |
 | <img src="guide/assets/icons/ecosystem.svg" width="44" alt="ecosystem icon"> | **[Team, issues, ecosystem](guide/ECOSYSTEM.md)** | team, issue table, sibling studies |
@@ -80,7 +81,7 @@ The hypothesis of the protocol issue is that hyperbolic-field exposure affects p
 |---|---|
 | `Hyperbolic_Field_BloodPlasma_Study` | Active Research (self-declared; content last updated 26 March 2026) |
 
-**Organization:** Advanced Scientific Research Projects (ASRP), part of the ASRP ecosystem. The repository is private.
+**Organization:** Advanced Scientific Research Projects (ASRP), part of the ASRP ecosystem. The repository is public.
 <!-- /excerpt -->
 
 Full page: [The study](guide/STUDY.md)
@@ -105,7 +106,9 @@ The protocol summary (`original_research/reports/experiment_protocol_en.md`) sta
 
 **The protocol documents disagree** on several points (exposure time, tube type, centrifugation settings, anticoagulant); the differences are listed on [Open questions](guide/OPEN.md) and none is resolved here. The preregistered design (OSF) is a mixed between- and within-donor design with 5-10 donors and 30-60 aliquots, primary outcomes clot-formation time and clot degradation rate, ANOVA with two-sided p below .05 and Tukey-Kramer comparisons. The clot-time outcomes were never measured; the photographs stand in for them.
 
-![Research overview: diagram of the previous README](original_research/charts/mermaid/root_1.png)
+<a href="guide/assets/diagrams/redraw-overview.en.svg"><img src="guide/assets/diagrams/redraw-overview.en.svg" width="100%" alt="Research overview: donors, plasma separation, exposure to channel 19, channel 21 and control, photography, AI/ML and statistics, reports"></a>
+
+Original figure: <a href="original_research/charts/mermaid/root_1.png"><code>original_research/charts/mermaid/root_1.png</code></a>
 <!-- /excerpt -->
 
 Full page: [The study](guide/STUDY.md#design-and-protocol)
@@ -257,7 +260,9 @@ Full page: [Evidence](guide/EVIDENCE.md)
 The study is described as the first biological test of hyperbolic-field emitters covered by a patent **application**: KZ 2025/1095.1, "Fractal Biomedical System" (FBHFS). An application is an IP claim. It is not a granted patent, and it is not validation of the method or of this study's results. The previous README said that the research "uses technology protected by patent"; the patent repository and the programme table in the same README give the status as "Filed". Applicants are individuals (the README names three technology co-authors, who are also the assignees of the patent-application issue); the company is not named as holder anywhere in this repository.
 
 <div align="center">
-<a href="original_research/charts/mermaid/root_2.png"><img src="original_research/charts/mermaid/root_2.png" width="100%" alt="Patent connection diagram of the previous README (Mermaid, rendered PNG)"></a>
+<a href="guide/assets/diagrams/redraw-patent.en.svg"><img src="guide/assets/diagrams/redraw-patent.en.svg" width="100%" alt="Patent application KZ 2025/1095.1 (not a granted patent) and the three studies that use the emitters"></a>
+
+Original figure: <a href="original_research/charts/mermaid/root_2.png"><code>original_research/charts/mermaid/root_2.png</code></a>
 </div>
 
 - **Patent repository:** [Kazpatent_Fractal_Biomedical_System_Patent](https://github.com/denisbanchenko/Kazpatent_Fractal_Biomedical_System_Patent)
@@ -381,6 +386,7 @@ Where to start depends on the question:
 | What the study is and how it was run | [The study](guide/STUDY.md), then `original_research/reports/experiment_protocol_en.md` |
 | Whether the claims hold | [Evidence](guide/EVIDENCE.md), each row with its source path |
 | The numbers as reported, and how to read them | [Results](guide/RESULTS.md) |
+| Every chart and diagram, with its folder | [Figures gallery](guide/FIGURES.md) |
 | The photographs and counts | [Data and photographs](guide/DATA.md), then `original_research/data/` |
 | The analysis code and the four dated reports | [Analysis methods](guide/METHODS.md), then `original_research/scripts/` and `original_research/reports/` |
 | Patent, registration, paper | [Publications, patent, preregistration](guide/PUBLICATIONS.md) |
@@ -451,7 +457,7 @@ The study works with blood plasma from human donors. The repository holds per-do
 | RESTRICTED | Core Team | RED | Sensitive analysis |
 | INTERNAL | Director Only | BLACK | Director-level review only |
 
-The per-donor material (`original_research/data/`) should be treated as RESTRICTED. The repository is private. Before any release a review of the donor logs, the PDFs and the per-photo data is needed, and the git history needs a check as well; this restructuring did not change or remove any data file.
+The per-donor material (`original_research/data/`) should be treated as RESTRICTED. The repository is public, so what it holds is visible to every reader. A review of the donor logs, the PDFs and the per-photo data is needed, and the git history needs a check as well; this restructuring did not change or remove any data file.
 <!-- /excerpt -->
 
 Full page: [Ethics, support, contact](guide/ETHICS.md)
@@ -472,7 +478,7 @@ Full page: [Ethics, support, contact](guide/ETHICS.md)
 | Website | [asrp.tech](https://asrp.tech) |
 | Email | info@asrp.tech |
 
-The address row was restored by an owner instruction recorded in the repository history; it is a street address with an apartment number, so check whether it should stay before any public release.
+The address row was restored by a commit recorded in the repository history; it is a street address with an apartment number, so check whether it should stay, since the repository is public.
 
 ### Team contacts
 
@@ -495,7 +501,7 @@ All addresses above are company-domain addresses. The external collaborator is r
 
 **© 2026 Advanced Scientific Research Projects (ASRP). All Rights Reserved.**
 
-This repository is a private research record. The results are preliminary, hypothesis-generating and not clinical; a patent application is an IP claim, not validation. The front page and the pages in `guide/` were restructured on <!--n:as_of-->2026-11-19<!--/n-->; the previous README is kept byte for byte in [`archive/`](archive/README_2026-11-19_pre-showcase.md).
+This repository is a public research record. The results are preliminary, hypothesis-generating and not clinical; a patent application is an IP claim, not validation. The front page and the pages in `guide/` were restructured on <!--n:as_of-->2026-11-19<!--/n-->; the previous README is kept byte for byte in [`archive/`](archive/README_2026-11-19_pre-showcase.md).
 
 <div align="center">
 

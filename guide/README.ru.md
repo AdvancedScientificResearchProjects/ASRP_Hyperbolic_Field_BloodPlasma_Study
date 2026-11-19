@@ -20,6 +20,7 @@
 | <img src="assets/icons/data.svg" width="30" alt="иконка данных"> | [Данные и фотографии](DATA.ru.md) | числа, съёмка, категории фото, объём данных, единица анализа |
 | <img src="assets/icons/methods.svg" width="30" alt="иконка методов"> | [Методы анализа](METHODS.ru.md) | читатели CV, zero-shot и LLM, слепота, шкала стадий, датированные отчёты |
 | <img src="assets/icons/results.svg" width="30" alt="иконка результатов"> | [Результаты](RESULTS.ru.md) | таблицы прежнего README, затем пересчитанные слепые подсчёты |
+| <img src="assets/icons/figures.svg" width="30" alt="иконка рисунков"> | [Галерея рисунков](FIGURES.ru.md) | все диаграммы и схемы репозитория с папкой-источником |
 | <img src="assets/icons/evidence.svg" width="30" alt="иконка свидетельств"> | [Свидетельства](EVIDENCE.ru.md) | доказано, заявлено, ещё не сделано, у каждого путь к источнику |
 | <img src="assets/icons/publications.svg" width="30" alt="иконка публикаций"> | [Патент, регистрация, публикация](PUBLICATIONS.ru.md) | патентная заявка, регистрация OSF, план публикации |
 | <img src="assets/icons/ecosystem.svg" width="30" alt="иконка экосистемы"> | [Команда, задачи, экосистема](ECOSYSTEM.ru.md) | команда, таблица задач, соседние исследования, патентный репозиторий |

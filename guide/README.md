@@ -20,6 +20,7 @@ Detail pages behind the [front-page README](../README.md). Numbers on these page
 | <img src="assets/icons/data.svg" width="30" alt="data icon"> | [Data and photographs](DATA.md) | counts, imaging, photo categories, data volume, what the unit of analysis is |
 | <img src="assets/icons/methods.svg" width="30" alt="methods icon"> | [Analysis methods](METHODS.md) | CV, zero-shot and LLM readers, blinding, stage scale, the dated reports |
 | <img src="assets/icons/results.svg" width="30" alt="results icon"> | [Results](RESULTS.md) | the previous README's tables, then the blinded counts recomputed |
+| <img src="assets/icons/figures.svg" width="30" alt="figures icon"> | [Figures gallery](FIGURES.md) | every chart and diagram of the repository, with its source folder |
 | <img src="assets/icons/evidence.svg" width="30" alt="evidence icon"> | [Evidence](EVIDENCE.md) | proven, claimed, not yet done, each with a source path |
 | <img src="assets/icons/publications.svg" width="30" alt="publications icon"> | [Publications, patent, preregistration](PUBLICATIONS.md) | the patent application, OSF registration, the publication plan |
 | <img src="assets/icons/ecosystem.svg" width="30" alt="ecosystem icon"> | [Team, issues, ecosystem](ECOSYSTEM.md) | team, issue table, sibling studies, patent repository |

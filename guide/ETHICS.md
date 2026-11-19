@@ -21,7 +21,7 @@ The study works with blood plasma from human donors. The repository holds per-do
 | RESTRICTED | Core Team | RED | Sensitive analysis |
 | INTERNAL | Director Only | BLACK | Director-level review only |
 
-The per-donor material (`original_research/data/`) should be treated as RESTRICTED. The repository is private. Before any release a review of the donor logs, the PDFs and the per-photo data is needed, and the git history needs a check as well; this restructuring did not change or remove any data file.
+The per-donor material (`original_research/data/`) should be treated as RESTRICTED. The repository is public, so what it holds is visible to every reader. A review of the donor logs, the PDFs and the per-photo data is needed, and the git history needs a check as well; this restructuring did not change or remove any data file.
 
 ### Claims and wording
 
@@ -45,7 +45,7 @@ A patent application is an IP claim, not validation of the study. Results here a
 | Website | [asrp.tech](https://asrp.tech) |
 | Email | info@asrp.tech |
 
-The address row was restored by an owner instruction recorded in the repository history; it is a street address with an apartment number, so check whether it should stay before any public release.
+The address row was restored by a commit recorded in the repository history; it is a street address with an apartment number, so check whether it should stay, since the repository is public.
 
 ### Team contacts
 

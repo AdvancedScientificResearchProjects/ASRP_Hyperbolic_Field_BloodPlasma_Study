@@ -63,7 +63,7 @@ BANNER = {
     "en": {
         "title": "Blood Plasma Study",
         "kicker": "HYPERBOLIC FIELD · EXPLORATORY PILOT",
-        "tag": "PRIVATE · HYPOTHESIS-GENERATING",
+        "tag": "HYPOTHESIS-GENERATING",
         "sub": ["Plasma photographed after two field settings", "and an untreated control; read by CV and AI"],
         "vials": ["control", "ch 19", "ch 21"],
         "chips": ["{donors} donors · {photos} photos", "{triplets} blinded triplets", "{blinded_runs} blinded runs"],
@@ -75,7 +75,7 @@ BANNER = {
     "ru": {
         "title": "Blood Plasma Study",
         "kicker": "ГИПЕРБОЛИЧЕСКОЕ ПОЛЕ · ПОИСКОВЫЙ ПИЛОТ",
-        "tag": "ПРИВАТНО · ГЕНЕРИРУЕТ ГИПОТЕЗЫ",
+        "tag": "ГЕНЕРИРУЕТ ГИПОТЕЗЫ",
         "sub": ["Плазма на фото после двух настроек поля", "и без обработки; читают CV и ИИ"],
         "vials": ["контроль", "кан. 19", "кан. 21"],
         "chips": ["{donors_ru} · {photos} фото", "{triplets_ru} вслепую", "{blinded_runs} слепых прогонов"],
@@ -442,6 +442,7 @@ ICONS = {
                           "<rect x='30' y='29' width='20' height='10' rx='2'/><rect x='30' y='41' width='20' height='10' rx='2'/>", "navigation"),
     "open": (GOLD, "<circle cx='32' cy='32' r='18'/><path d='M26 27a6 6 0 1 1 9 5c-2 1-3 2-3 4M32 43v2'/>", "open questions"),
     "ethics": (AMBER, "<rect x='17' y='29' width='30' height='21' rx='4'/><path d='M23 29v-6a9 9 0 0 1 18 0v6M32 38v6'/>", "ethics and security"),
+    "figures": (TEAL, "<rect x='12' y='14' width='40' height='36' rx='5'/><circle cx='24' cy='26' r='4'/><path d='M14 46l12-12 8 8 6-6 10 10'/>", "figures"),
     "archive": (MUTED, "<rect x='12' y='14' width='40' height='11' rx='3'/><path d='M16 25v25h32V25M26 34h12'/>", "archive"),
 }
 

@@ -45,7 +45,7 @@ None of the items below is resolved here: the source files were not edited. Each
 
 - **Publication.** The repository never names a published article, a DOI or a journal release, and the study documents stop at 26 March 2026. Whether a paper appeared is an external fact not verified here.
 - **Patent status.** Whether KZ 2025/1095.1 has progressed beyond "Filed" is not recorded in the repository.
-- **A personal e-mail address** of an external collaborator still stands in three files of the mirror folder (`ISSUE_1_UPDATED.md`, `ISSUE_2_UPDATED.md`, the mirror `README.md`), although an earlier commit removed it from the root README. Removing it needs an owner decision; it is not repeated on any showcase page.
+- **A personal e-mail address** of an external collaborator still stands in three files of the mirror folder (`ISSUE_1_UPDATED.md`, `ISSUE_2_UPDATED.md`, the mirror `README.md`), although an earlier commit removed it from the root README. Removing it needs a decision by the repository maintainers; it is not repeated on any showcase page.
 - **Mirror divergence.** The mirror README (423 lines) and the root README (504 lines at the previous version) differ; the mirror is not a byte copy.
 - **Issues 4, 7 and 9** exist only as table rows, so the issue list cannot be verified without GitHub.
 

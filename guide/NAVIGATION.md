@@ -17,6 +17,7 @@ Where to start depends on the question:
 | What the study is and how it was run | [The study](STUDY.md), then `original_research/reports/experiment_protocol_en.md` |
 | Whether the claims hold | [Evidence](EVIDENCE.md), each row with its source path |
 | The numbers as reported, and how to read them | [Results](RESULTS.md) |
+| Every chart and diagram, with its folder | [Figures gallery](FIGURES.md) |
 | The photographs and counts | [Data and photographs](DATA.md), then `original_research/data/` |
 | The analysis code and the four dated reports | [Analysis methods](METHODS.md), then `original_research/scripts/` and `original_research/reports/` |
 | Patent, registration, paper | [Publications, patent, preregistration](PUBLICATIONS.md) |
