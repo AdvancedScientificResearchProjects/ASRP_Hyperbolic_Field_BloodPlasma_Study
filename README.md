@@ -41,7 +41,7 @@
 - **What exists.** A real, consistent dataset: <!--n:photos-->101<!--/n--> photographs, <!--n:pdfs-->11<!--/n--> scanned protocols, <!--n:result_files-->47<!--/n--> LLM result files, <!--n:ml_result_files-->102<!--/n--> per-photo ML outputs, about <!--n:scripts_lines-->7290<!--/n--> lines of analysis code, four dated reports.
 - **What was shown.** The best blinded LLM run picked channel 19 in <!--n:gemini_ch19-->11<!--/n--> of <!--n:triplets-->19<!--/n--> triplets (<!--n:gemini_pct-->57.9<!--/n-->%), but letter B is always channel 19 and the exact one-sided p is <!--n:gemini_p_exact-->0.024<!--/n-->; the other providers are at or below chance; no computer-vision model reaches p below 0.05. The authors call the best CV result "suggestive but inconclusive".
 - **What is not established.** There is no clotting-time, fibrinogen, D-dimer, PT or APTT measurement in the repository. The previous README listed p = 0.027 as "Significant" and called the signal "reproducible"; the repository's own reports do not support that. No emitter specification is given.
-- **IP.** The patent connection is an application, KZ 2025/1095.1, filed and not granted; applicants are individuals.
+- **IP.** The patent connection is an application, KZ 2025/1095.1, filed and not granted; the repository does not name the applicants.
 - **Where to start.** [Evidence](guide/EVIDENCE.md) (claimed versus shown, with sources), then [Results](guide/RESULTS.md).
 - **What is open.** Protocol documents that disagree, an unverified clock offset, and a publication whose status the repository does not record: see [Open questions](guide/OPEN.md).
 
@@ -257,7 +257,7 @@ Full page: [Evidence](guide/EVIDENCE.md)
 ## Publications, patent and preregistration
 
 <!-- excerpt PUBLICATIONS 0 -->
-The study is described as the first biological test of hyperbolic-field emitters covered by a patent **application**: KZ 2025/1095.1, "Fractal Biomedical System" (FBHFS). An application is an IP claim. It is not a granted patent, and it is not validation of the method or of this study's results. The previous README said that the research "uses technology protected by patent"; the patent repository and the programme table in the same README give the status as "Filed". Applicants are individuals (the README names three technology co-authors, who are also the assignees of the patent-application issue); the company is not named as holder anywhere in this repository.
+The study is described as the first biological test of hyperbolic-field emitters covered by a patent **application**: KZ 2025/1095.1, "Fractal Biomedical System" (FBHFS). An application is an IP claim. It is not a granted patent, and it is not validation of the method or of this study's results. The previous README said that the research "uses technology protected by patent"; the patent repository and the programme table in the same README give the status as "Filed". The repository does not name the applicants; an application is not a granted patent.
 
 <div align="center">
 <a href="guide/assets/diagrams/redraw-patent.en.svg"><img src="guide/assets/diagrams/redraw-patent.en.svg" width="100%" alt="Patent application KZ 2025/1095.1 (not a granted patent) and the three studies that use the emitters"></a>
@@ -474,11 +474,8 @@ Full page: [Ethics, support, contact](guide/ETHICS.md)
 |---|---|
 | Organization | ТОО "Перспективные Научно-Исследовательские Разработки" / Advanced Scientific Research Projects LLP |
 | Country | Republic of Kazakhstan |
-| Address | Komarova St. 37, Apt 56, Baikonur, 468320 |
 | Website | [asrp.tech](https://asrp.tech) |
 | Email | info@asrp.tech |
-
-The address row was restored by a commit recorded in the repository history; it is a street address with an apartment number. Open: whether this row should remain public (owner decision).
 
 ### Team contacts
 
