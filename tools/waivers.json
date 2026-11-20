@@ -42,6 +42,14 @@
     "8c05dbecd562080bbcb7d8333378dfd2c4237ebd169dc3882450b3f28b20e692"
    ],
    "reason": "named personal mailbox - not reproduced (privacy)"
+  },
+  {
+   "check": "H3_numbers_missing",
+   "match_sha256": [
+    "b6283614ef4758e6d0f759b33e8dc994bd859a879990d5815ebc237e14c9bb80",
+    "79f649bcd303918cb14dc1d5238a74abf288f8ccf29fd89f422023d885cf5d47"
+   ],
+   "reason": "PII: apartment number and postal code of a private street address in the old contact table; the address row is withheld on the new pages (EN and RU). The old README keeps it in archive/."
   }
  ]
 }
