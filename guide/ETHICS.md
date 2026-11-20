@@ -41,11 +41,8 @@ A patent application is an IP claim, not validation of the study. Results here a
 |---|---|
 | Organization | ТОО "Перспективные Научно-Исследовательские Разработки" / Advanced Scientific Research Projects LLP |
 | Country | Republic of Kazakhstan |
-| Address | Komarova St. 37, Apt 56, Baikonur, 468320 |
 | Website | [asrp.tech](https://asrp.tech) |
 | Email | info@asrp.tech |
-
-The address row was restored by a commit recorded in the repository history; it is a street address with an apartment number. Open: whether this row should remain public (owner decision).
 
 ### Team contacts
 

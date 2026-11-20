@@ -2,17 +2,23 @@
  "waivers": [
   {
    "check": "S1_names_missing",
-   "match": "\"CHIRKOVA OLESYA\"",
+   "match_sha256": [
+    "996e5270784259d43f5a7aa2d45c37ce7d19b77a5446d3672dae1baf6d3e7aca"
+   ],
    "reason": "PII: private person not named (privacy); the role is kept as 'external plasma specialist'."
   },
   {
    "check": "S1_names_missing",
-   "match": "\"ЧИРКОВА ОЛЕСЯ\"",
+   "match_sha256": [
+    "6342ebf4e3e59aee88438df374c7b238f22623cc6846fb1c3bf65a72a38cd59d"
+   ],
    "reason": "PII: private person not named (privacy); the role is kept as 'external plasma specialist'."
   },
   {
    "check": "S1_names_missing",
-   "match": "\"SASU Point Rouge France\"",
+   "match_sha256": [
+    "214f325484edb7bb567315d0d0630dbd93aca1bb1ec4910b69f850aa5495ec89"
+   ],
    "reason": "PII: private person not named (privacy); the role is kept as 'external plasma specialist'."
   },
   {
@@ -32,8 +38,18 @@
   },
   {
    "check": "H4_identifiers_missing",
-   "match": "ivansavelev@asrp.science",
+   "match_sha256": [
+    "8c05dbecd562080bbcb7d8333378dfd2c4237ebd169dc3882450b3f28b20e692"
+   ],
    "reason": "named personal mailbox - not reproduced (privacy)"
+  },
+  {
+   "check": "H3_numbers_missing",
+   "match_sha256": [
+    "b6283614ef4758e6d0f759b33e8dc994bd859a879990d5815ebc237e14c9bb80",
+    "79f649bcd303918cb14dc1d5238a74abf288f8ccf29fd89f422023d885cf5d47"
+   ],
+   "reason": "PII: apartment number and postal code of a private street address in the old contact table; the address row is withheld on the new pages (EN and RU). The old README keeps it in archive/."
   }
  ]
 }

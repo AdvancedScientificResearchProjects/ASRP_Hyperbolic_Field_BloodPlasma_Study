@@ -46,7 +46,7 @@ The verdict in one paragraph: this is a **pilot with a real dataset** (<!--n:pho
 | "Reproducible signal across different models" | Most blinded runs are at or below chance (GPT-5 <!--n:openai_pct-->23.6<!--/n-->%, Groq <!--n:groq_pct-->33.3<!--/n-->%) | `README.md:448` (archived) |
 | Channel 19 "consistently identified as most coagulated" (03-12 report) | Its own aggregate table shows GPT-5 <!--n:openai_pct-->23.6<!--/n-->% and Groq <!--n:groq_pct-->33.3<!--/n-->% | `original_research/reports/2026-03-12_comparative-llm-analysis/report_en.md:379` |
 | Informed consent and donor screening are specified in the protocol issue | No consent artefact is in the repository, and the protocol summary says some donors were on antibiotics | `ADVANCED_SCIENTIFIC_RESEARCH_PROJECTS/Hyperbolic_Field_BloodPlasma_Study/ISSUE_3_UPDATED.md:33` |
-| "This research uses technology protected by patent" | KZ 2025/1095.1 is an application with individual applicants, not a granted patent; the repository itself says only "Filed" | `README.md:90` (archived) |
+| "This research uses technology protected by patent" | KZ 2025/1095.1 is an application, not a granted patent (the repository does not name the applicants); the repository itself says only "Filed" | `README.md:90` (archived) |
 | Expansion to 30 donors (issue 4) | A plan, priority Low | `README.md:311` (archived) |
 
 ## Not yet done
